@@ -9,7 +9,7 @@ from io import BytesIO
 from PIL import Image
 import matplotlib.pyplot as plt
 from predict_bike_usage import predict_bike_usage
-MAPBOX_KEY = "pk.eyJ1IjoibWNmbHVycnkwMzI2IiwiYSI6ImNtZHdwbDZxdzF5OXUybnNiYjRvcDI1c3gifQ._25DNkeuzveF7frWmA88KQ"
+MAPBOX_KEY = "pk.eyJ1IjoibWNmbHVycnkwMzI2IiwiYSI6ImNtZHdyZmY0NjE3Njkya3F5OXNqNXVsbnIifQ.GFjI4Rw8ahLpVVdpZkAWBQ"
 
 
 
