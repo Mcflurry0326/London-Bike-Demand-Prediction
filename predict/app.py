@@ -9,6 +9,8 @@ from io import BytesIO
 from PIL import Image
 import matplotlib.pyplot as plt
 from predict_bike_usage import predict_bike_usage
+MAPBOX_KEY = "pk.eyJ1IjoibWNmbHVycnkwMzI2IiwiYSI6ImNtZHdwbDZxdzF5OXUybnNiYjRvcDI1c3gifQ._25DNkeuzveF7frWmA88KQ"
+
 
 
 st.set_page_config(page_title="🚲 Bike Demand Forecasting", layout="wide")
@@ -148,7 +150,8 @@ def run_prediction_module():
             map_style='mapbox://styles/mapbox/streets-v11',
             initial_view_state=pdk.ViewState(latitude=lat, longitude=lon, zoom=13, pitch=0),
             layers=[icon_layer, text_layer],
-            tooltip={"text": "{Station}\n{Prediction}"}
+            tooltip={"text": "{Station}\n{Prediction}"},
+            mapbox_key=MAPBOX_KEY
         ))
 
 
