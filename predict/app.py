@@ -66,7 +66,7 @@ def run_prediction_module():
     target = st.radio(
         "Target",
         options=["start", "end"],
-        format_func=lambda x: "Start Volume" if x == "start" else "End Volume",
+        format_func=lambda x: "Pickup" if x == "start" else "Dropoff",
         key="target_radio"
     )
 
@@ -102,7 +102,7 @@ def run_prediction_module():
         st.session_state.history.insert(0, {
             "datetime": dt_str,
             "station": station_name,
-            "target": "Start Volume" if target == "start" else "End Volume",
+            "target": "Pickup" if target == "start" else "Dropoff",
             "value": prediction,
             "weather": {}  # 可扩展天气信息
         })
