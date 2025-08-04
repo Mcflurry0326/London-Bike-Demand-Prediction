@@ -1,0 +1,24 @@
+{
+    "pickup": {
+        "xgboost": {
+            "MAE": 0.6667,
+            "R2": 0.8456
+        },
+        "lightgbm": {
+            "MAE": 0.6897,
+            "R2": 0.8382
+        },
+        "best_model": "xgboost"
+    },
+    "dropoff": {
+        "xgboost": {
+            "MAE": 0.646,
+            "R2": 0.8592
+        },
+        "lightgbm": {
+            "MAE": 0.6721,
+            "R2": 0.8516
+        },
+        "best_model": "xgboost"
+    }
+}

@@ -1,0 +1,19 @@
+[
+  "temp",
+  "humidity",
+  "precip",
+  "windspeed",
+  "cloudcover",
+  "latitude",
+  "longitude",
+  "hour",
+  "dayofweek",
+  "month",
+  "is_weekend",
+  "is_peak_hour",
+  "cluster_hourly_avg_pickup",
+  "pickup_count_lag_1h",
+  "pickup_count_rolling_3h_mean",
+  "pickup_count_rolling_6h_std",
+  "pickup_count_cumsum_day"
+]

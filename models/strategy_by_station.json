@@ -1,0 +1,3266 @@
+{
+    "0": {
+        "pickup": "global",
+        "dropoff": "average"
+    },
+    "Abbey Orchard Street, Westminster": {
+        "pickup": "station",
+        "dropoff": "global"
+    },
+    "Abbey Orchard Street, Westminster_OLD": {
+        "pickup": "global",
+        "dropoff": "global"
+    },
+    "Abbotsbury Road, Holland Park": {
+        "pickup": "average",
+        "dropoff": "average"
+    },
+    "Aberdeen Place, St. John's Wood": {
+        "pickup": "station",
+        "dropoff": "average"
+    },
+    "Aberfeldy Street, Poplar": {
+        "pickup": "average",
+        "dropoff": "station"
+    },
+    "Abingdon Green, Westminster": {
+        "pickup": "global",
+        "dropoff": "global"
+    },
+    "Abingdon Villas, Kensington": {
+        "pickup": "average",
+        "dropoff": "average"
+    },
+    "Ackroyd Drive, Bow": {
+        "pickup": "cluster",
+        "dropoff": "cluster"
+    },
+    "Ada Street, Hackney Central": {
+        "pickup": "station",
+        "dropoff": "global"
+    },
+    "Addison Road, Holland Park": {
+        "pickup": "station",
+        "dropoff": "station"
+    },
+    "Aintree Street, Fulham": {
+        "pickup": "cluster",
+        "dropoff": "cluster"
+    },
+    "Albany Street, The Regent's Park": {
+        "pickup": "global",
+        "dropoff": "station"
+    },
+    "Albert Bridge Road, Battersea Park": {
+        "pickup": "global",
+        "dropoff": "global"
+    },
+    "Albert Embankment, Vauxhall": {
+        "pickup": "station",
+        "dropoff": "station"
+    },
+    "Albert Embankment, Vauxhall_OLD": {
+        "pickup": "average",
+        "dropoff": "average"
+    },
+    "Albert Gardens, Stepney": {
+        "pickup": "cluster",
+        "dropoff": "cluster"
+    },
+    "Albert Gate, Hyde Park": {
+        "pickup": "global",
+        "dropoff": "global"
+    },
+    "Albert Square, Stockwell": {
+        "pickup": "station",
+        "dropoff": "station"
+    },
+    "Albert Street, Camden Town": {
+        "pickup": "average",
+        "dropoff": "average"
+    },
+    "Alderney Street, Pimlico": {
+        "pickup": "global",
+        "dropoff": "global"
+    },
+    "Aldersgate Street, Barbican": {
+        "pickup": "cluster",
+        "dropoff": "global"
+    },
+    "Alfreda Street, Battersea Park": {
+        "pickup": "station",
+        "dropoff": "station"
+    },
+    "All Saints Church, Portobello": {
+        "pickup": "cluster",
+        "dropoff": "cluster"
+    },
+    "All Saints' Road, Portobello": {
+        "pickup": "average",
+        "dropoff": "station"
+    },
+    "Allington Street, Victoria": {
+        "pickup": "global",
+        "dropoff": "global"
+    },
+    "Alma Road, Wandsworth": {
+        "pickup": "station",
+        "dropoff": "station"
+    },
+    "Alpha Grove, Millwall": {
+        "pickup": "average",
+        "dropoff": "average"
+    },
+    "Ampton Street , Clerkenwell": {
+        "pickup": "average",
+        "dropoff": "average"
+    },
+    "Ansell House, Stepney": {
+        "pickup": "cluster",
+        "dropoff": "cluster"
+    },
+    "Antill Road, Mile End": {
+        "pickup": "station",
+        "dropoff": "average"
+    },
+    "Archbishop's Park, Waterloo": {
+        "pickup": "station",
+        "dropoff": "station"
+    },
+    "Argyle Street, Kings Cross": {
+        "pickup": "global",
+        "dropoff": "global"
+    },
+    "Argyll Road, Kensington": {
+        "pickup": "average",
+        "dropoff": "cluster"
+    },
+    "Arlington Road, Camden Town": {
+        "pickup": "average",
+        "dropoff": "average"
+    },
+    "Arundel Street, Temple": {
+        "pickup": "station",
+        "dropoff": "station"
+    },
+    "Ashley Crescent, Battersea": {
+        "pickup": "station",
+        "dropoff": "station"
+    },
+    "Ashley Place, Victoria": {
+        "pickup": "station",
+        "dropoff": "global"
+    },
+    "Ashmole Estate, Oval": {
+        "pickup": "station",
+        "dropoff": "station"
+    },
+    "Aston Street, Stepney": {
+        "pickup": "station",
+        "dropoff": "average"
+    },
+    "Austin Road, Battersea Park": {
+        "pickup": "station",
+        "dropoff": "station"
+    },
+    "Aylward Street, Stepney": {
+        "pickup": "average",
+        "dropoff": "average"
+    },
+    "BBC White City, White City": {
+        "pickup": "station",
+        "dropoff": "cluster"
+    },
+    "Baker Street, Marylebone": {
+        "pickup": "global",
+        "dropoff": "station"
+    },
+    "Baldwin Street, St. Luke's": {
+        "pickup": "station",
+        "dropoff": "global"
+    },
+    "Bancroft Road, Bethnal Green": {
+        "pickup": "station",
+        "dropoff": "station"
+    },
+    "Bank of England Museum, Bank": {
+        "pickup": "cluster",
+        "dropoff": "global"
+    },
+    "Bankside Mix, Bankside": {
+        "pickup": "station",
+        "dropoff": "global"
+    },
+    "Barbican Centre, Barbican": {
+        "pickup": "cluster",
+        "dropoff": "global"
+    },
+    "Barons Court Station, West Kensington": {
+        "pickup": "cluster",
+        "dropoff": "cluster"
+    },
+    "Bath Street, St. Lke's": {
+        "pickup": "cluster",
+        "dropoff": "global"
+    },
+    "Bath Street, St. Luke's": {
+        "pickup": "cluster",
+        "dropoff": "global"
+    },
+    "Battersea Church Road, Battersea": {
+        "pickup": "global",
+        "dropoff": "global"
+    },
+    "Battersea Park Road, Nine Elms": {
+        "pickup": "global",
+        "dropoff": "global"
+    },
+    "Battersea Power Station, Battersea Park": {
+        "pickup": "global",
+        "dropoff": "global"
+    },
+    "Bayley Street , Bloomsbury": {
+        "pickup": "global",
+        "dropoff": "global"
+    },
+    "Baylis Road, Waterloo": {
+        "pickup": "global",
+        "dropoff": "global"
+    },
+    "Bayswater Road, Hyde Park": {
+        "pickup": "global",
+        "dropoff": "global"
+    },
+    "Beaumont Street, Marylebone": {
+        "pickup": "global",
+        "dropoff": "global"
+    },
+    "Bedford Way, Bloomsbury": {
+        "pickup": "average",
+        "dropoff": "global"
+    },
+    "Belford House, Haggerston": {
+        "pickup": "average",
+        "dropoff": "average"
+    },
+    "Belgrave Road, Victoria": {
+        "pickup": "station",
+        "dropoff": "station"
+    },
+    "Belgrave Square, Belgravia": {
+        "pickup": "average",
+        "dropoff": "station"
+    },
+    "Bell Lane, Liverpool Street": {
+        "pickup": "cluster",
+        "dropoff": "global"
+    },
+    "Bell Street , Marylebone": {
+        "pickup": "station",
+        "dropoff": "station"
+    },
+    "Belvedere Road 1, South Bank": {
+        "pickup": "global",
+        "dropoff": "global"
+    },
+    "Belvedere Road 2, South Bank": {
+        "pickup": "global",
+        "dropoff": "global"
+    },
+    "Bermondsey Station, Bermondsey": {
+        "pickup": "station",
+        "dropoff": "average"
+    },
+    "Bermondsey Street, Bermondsey": {
+        "pickup": "cluster",
+        "dropoff": "global"
+    },
+    "Berry Street, Clerkenwell": {
+        "pickup": "cluster",
+        "dropoff": "global"
+    },
+    "Beryl Road, Hammersmith": {
+        "pickup": "average",
+        "dropoff": "station"
+    },
+    "Bethnal Green Garden, Bethnal Green": {
+        "pickup": "average",
+        "dropoff": "average"
+    },
+    "Bethnal Green Road, Shoreditch": {
+        "pickup": "cluster",
+        "dropoff": "global"
+    },
+    "Bevington Road West, North Kensington": {
+        "pickup": "cluster",
+        "dropoff": "cluster"
+    },
+    "Binfield Road, Stockwell": {
+        "pickup": "global",
+        "dropoff": "global"
+    },
+    "Birkenhead Street, King's Cross": {
+        "pickup": "global",
+        "dropoff": "global"
+    },
+    "Bishop's Avenue, Fulham": {
+        "pickup": "cluster",
+        "dropoff": "cluster"
+    },
+    "Bishop's Bridge Road East, Bayswater": {
+        "pickup": "average",
+        "dropoff": "station"
+    },
+    "Bishop's Bridge Road West, Bayswater": {
+        "pickup": "cluster",
+        "dropoff": "cluster"
+    },
+    "Black Lion Gate, Kensington Gardens": {
+        "pickup": "cluster",
+        "dropoff": "cluster"
+    },
+    "Black Prince Road, Vauxhall": {
+        "pickup": "global",
+        "dropoff": "station"
+    },
+    "Blackfriars Road, Southwark": {
+        "pickup": "station",
+        "dropoff": "global"
+    },
+    "Blackfriars Station, St. Paul's": {
+        "pickup": "cluster",
+        "dropoff": "global"
+    },
+    "Blenheim Crescent, Ladbroke Grove": {
+        "pickup": "cluster",
+        "dropoff": "cluster"
+    },
+    "Blythe Road West, Shepherd's Bush": {
+        "pickup": "station",
+        "dropoff": "average"
+    },
+    "Blythe Road, Olympia": {
+        "pickup": "station",
+        "dropoff": "station"
+    },
+    "Bolsover Street, Fitzrovia": {
+        "pickup": "global",
+        "dropoff": "global"
+    },
+    "Bonner Gate, Victoria Park": {
+        "pickup": "cluster",
+        "dropoff": "cluster"
+    },
+    "Bonny Street, Camden Town": {
+        "pickup": "global",
+        "dropoff": "global"
+    },
+    "Borough High Street, The Borough": {
+        "pickup": "station",
+        "dropoff": "station"
+    },
+    "Borough Road, Elephant & Castle": {
+        "pickup": "station",
+        "dropoff": "station"
+    },
+    "Boston Place, Marylebone": {
+        "pickup": "global",
+        "dropoff": "global"
+    },
+    "Bourne Street, Belgravia": {
+        "pickup": "average",
+        "dropoff": "station"
+    },
+    "Bouverie Street, Temple": {
+        "pickup": "global",
+        "dropoff": "global"
+    },
+    "Bow Church Station, Bow": {
+        "pickup": "cluster",
+        "dropoff": "cluster"
+    },
+    "Bow Road Station, Bow": {
+        "pickup": "station",
+        "dropoff": "cluster"
+    },
+    "Braham Street, Aldgate": {
+        "pickup": "cluster",
+        "dropoff": "global"
+    },
+    "Bramham Gardens, Earl's Court": {
+        "pickup": "cluster",
+        "dropoff": "cluster"
+    },
+    "Brandon Street, Walworth": {
+        "pickup": "average",
+        "dropoff": "station"
+    },
+    "Breams Buildings, Holborn": {
+        "pickup": "station",
+        "dropoff": "station"
+    },
+    "Brick Lane Market, Shoreditch": {
+        "pickup": "average",
+        "dropoff": "average"
+    },
+    "Bricklayers Arms, Borough": {
+        "pickup": "cluster",
+        "dropoff": "global"
+    },
+    "Bridge Avenue, Hammersmith": {
+        "pickup": "cluster",
+        "dropoff": "cluster"
+    },
+    "British Museum, Bloomsbury": {
+        "pickup": "global",
+        "dropoff": "global"
+    },
+    "Broadcasting House, Marylebone": {
+        "pickup": "global",
+        "dropoff": "global"
+    },
+    "Broadley Terrace, Marylebone": {
+        "pickup": "station",
+        "dropoff": "station"
+    },
+    "Broadwick Street, Soho": {
+        "pickup": "global",
+        "dropoff": "global"
+    },
+    "Bromley High Street, Bow": {
+        "pickup": "average",
+        "dropoff": "average"
+    },
+    "Brook Green South, Brook Green": {
+        "pickup": "station",
+        "dropoff": "average"
+    },
+    "Broomhouse Lane, Parsons Green": {
+        "pickup": "average",
+        "dropoff": "average"
+    },
+    "Brunswick Square, Bloomsbury": {
+        "pickup": "global",
+        "dropoff": "global"
+    },
+    "Brushfield Street, Liverpool Street": {
+        "pickup": "cluster",
+        "dropoff": "global"
+    },
+    "Bruton Street, Mayfair": {
+        "pickup": "station",
+        "dropoff": "station"
+    },
+    "Buckingham Gate, Westminster": {
+        "pickup": "global",
+        "dropoff": "global"
+    },
+    "Bunhill Row, Moorgate": {
+        "pickup": "cluster",
+        "dropoff": "global"
+    },
+    "Burdett Road, Mile End": {
+        "pickup": "cluster",
+        "dropoff": "cluster"
+    },
+    "Burgess Park Albany Road, Walworth": {
+        "pickup": "cluster",
+        "dropoff": "global"
+    },
+    "Bury Place, Holborn": {
+        "pickup": "station",
+        "dropoff": "station"
+    },
+    "Butler Place, Westminster": {
+        "pickup": "global",
+        "dropoff": "station"
+    },
+    "Buxton Street 1, Shoreditch": {
+        "pickup": "station",
+        "dropoff": "average"
+    },
+    "Cadogan Close, Victoria Park": {
+        "pickup": "cluster",
+        "dropoff": "cluster"
+    },
+    "Cadogan Gardens, Chelsea": {
+        "pickup": "global",
+        "dropoff": "global"
+    },
+    "Cadogan Place, Knightsbridge": {
+        "pickup": "station",
+        "dropoff": "global"
+    },
+    "Caldwell Street, Stockwell": {
+        "pickup": "station",
+        "dropoff": "station"
+    },
+    "Calshot Street , King's Cross": {
+        "pickup": "average",
+        "dropoff": "average"
+    },
+    "Camley Street, Camden Town": {
+        "pickup": "station",
+        "dropoff": "average"
+    },
+    "Campden Hill Road, Notting Hill": {
+        "pickup": "average",
+        "dropoff": "average"
+    },
+    "Canada Water Station, Rotherhithe": {
+        "pickup": "cluster",
+        "dropoff": "cluster"
+    },
+    "Canton Street, Poplar": {
+        "pickup": "average",
+        "dropoff": "average"
+    },
+    "Cantrell Road, Bow": {
+        "pickup": "average",
+        "dropoff": "average"
+    },
+    "Carey Street, Holborn": {
+        "pickup": "station",
+        "dropoff": "station"
+    },
+    "Carnegie Street, King's Cross": {
+        "pickup": "station",
+        "dropoff": "average"
+    },
+    "Cartwright Gardens , Bloomsbury": {
+        "pickup": "global",
+        "dropoff": "average"
+    },
+    "Castlehaven Road, Camden Town": {
+        "pickup": "global",
+        "dropoff": "global"
+    },
+    "Central House, Aldgate": {
+        "pickup": "cluster",
+        "dropoff": "global"
+    },
+    "Cephas Street, Bethnal Green": {
+        "pickup": "station",
+        "dropoff": "station"
+    },
+    "Chadwell Street, Angel": {
+        "pickup": "station",
+        "dropoff": "station"
+    },
+    "Chancery Lane, Holborn": {
+        "pickup": "global",
+        "dropoff": "global"
+    },
+    "Chapel Place, Marylebone": {
+        "pickup": "global",
+        "dropoff": "global"
+    },
+    "Charing Cross Hospital, Hammersmith": {
+        "pickup": "cluster",
+        "dropoff": "cluster"
+    },
+    "Charlbert Street, St. John's Wood": {
+        "pickup": "station",
+        "dropoff": "station"
+    },
+    "Charles II Street, West End": {
+        "pickup": "global",
+        "dropoff": "global"
+    },
+    "Charlotte Street, Fitzrovia": {
+        "pickup": "station",
+        "dropoff": "station"
+    },
+    "Charlotte Terrace, Angel": {
+        "pickup": "station",
+        "dropoff": "average"
+    },
+    "Cheapside, Bank": {
+        "pickup": "cluster",
+        "dropoff": "global"
+    },
+    "Chelsea Bridge, Pimlico": {
+        "pickup": "station",
+        "dropoff": "average"
+    },
+    "Chelsea Green, Chelsea": {
+        "pickup": "average",
+        "dropoff": "average"
+    },
+    "Chepstow Villas, Notting Hill": {
+        "pickup": "cluster",
+        "dropoff": "cluster"
+    },
+    "Cheshire Street, Bethnal Green": {
+        "pickup": "station",
+        "dropoff": "station"
+    },
+    "Chesilton Road, Fulham": {
+        "pickup": "station",
+        "dropoff": "cluster"
+    },
+    "Chicheley Street, South Bank": {
+        "pickup": "global",
+        "dropoff": "global"
+    },
+    "Chrisp Street Market, Poplar": {
+        "pickup": "average",
+        "dropoff": "average"
+    },
+    "Christian Street, Whitechapel": {
+        "pickup": "station",
+        "dropoff": "station"
+    },
+    "Christopher Street, Liverpool Street": {
+        "pickup": "station",
+        "dropoff": "station"
+    },
+    "City Road, Angel": {
+        "pickup": "station",
+        "dropoff": "station"
+    },
+    "Clapham Common North Side, Clapham Common": {
+        "pickup": "station",
+        "dropoff": "station"
+    },
+    "Clapham Common Station, Clapham Common": {
+        "pickup": "global",
+        "dropoff": "global"
+    },
+    "Clapham Road, Lingham Street, Stockwell": {
+        "pickup": "station",
+        "dropoff": "average"
+    },
+    "Clapham South, Clapham South": {
+        "pickup": "station",
+        "dropoff": "station"
+    },
+    "Claremont Square, Angel": {
+        "pickup": "station",
+        "dropoff": "average"
+    },
+    "Clarence Walk, Stockwell": {
+        "pickup": "station",
+        "dropoff": "station"
+    },
+    "Clarendon Road, Avondale": {
+        "pickup": "average",
+        "dropoff": "station"
+    },
+    "Clarges Street, Mayfair": {
+        "pickup": "station",
+        "dropoff": "station"
+    },
+    "Clarkson Street, Bethnal Green": {
+        "pickup": "station",
+        "dropoff": "station"
+    },
+    "Claverton Street, Pimlico": {
+        "pickup": "station",
+        "dropoff": "station"
+    },
+    "Cleaver Street, Kennington": {
+        "pickup": "station",
+        "dropoff": "station"
+    },
+    "Clements Road, Bermondsey": {
+        "pickup": "average",
+        "dropoff": "average"
+    },
+    "Clerkenwell Green, Clerkenwell": {
+        "pickup": "cluster",
+        "dropoff": "station"
+    },
+    "Cleveland Gardens, Bayswater": {
+        "pickup": "station",
+        "dropoff": "station"
+    },
+    "Cleveland Way, Stepney": {
+        "pickup": "cluster",
+        "dropoff": "cluster"
+    },
+    "Clifford Street, Mayfair": {
+        "pickup": "station",
+        "dropoff": "global"
+    },
+    "Clifton Road, Maida Vale": {
+        "pickup": "station",
+        "dropoff": "station"
+    },
+    "Clifton Street, Shoreditch": {
+        "pickup": "station",
+        "dropoff": "station"
+    },
+    "Clinton Road, Mile End": {
+        "pickup": "average",
+        "dropoff": "average"
+    },
+    "Cloudesley Road, Angel": {
+        "pickup": "station",
+        "dropoff": "station"
+    },
+    "Colet Gardens, Hammersmith": {
+        "pickup": "average",
+        "dropoff": "average"
+    },
+    "Collingham Gardens, Earl's Court": {
+        "pickup": "cluster",
+        "dropoff": "cluster"
+    },
+    "Colombo Street, Southwark": {
+        "pickup": "average",
+        "dropoff": "average"
+    },
+    "Columbia Road, Shoreditch": {
+        "pickup": "cluster",
+        "dropoff": "global"
+    },
+    "Commercial Street, Shoreditch": {
+        "pickup": "average",
+        "dropoff": "average"
+    },
+    "Concert Hall Approach 1, South Bank": {
+        "pickup": "global",
+        "dropoff": "global"
+    },
+    "Concert Hall Approach 2, South Bank": {
+        "pickup": "global",
+        "dropoff": "station"
+    },
+    "Coomer Place, West Kensington": {
+        "pickup": "cluster",
+        "dropoff": "cluster"
+    },
+    "Copper Box Arena, Queen Elizabeth Olympic Park": {
+        "pickup": "cluster",
+        "dropoff": "cluster"
+    },
+    "Coram Street, Bloomsbury": {
+        "pickup": "average",
+        "dropoff": "average"
+    },
+    "Cotton Garden Estate, Kennington": {
+        "pickup": "station",
+        "dropoff": "station"
+    },
+    "Courland Grove, Wandsworth Road": {
+        "pickup": "station",
+        "dropoff": "station"
+    },
+    "Crabtree Lane, Fulham": {
+        "pickup": "station",
+        "dropoff": "station"
+    },
+    "Cranmer Road, Stockwell": {
+        "pickup": "station",
+        "dropoff": "global"
+    },
+    "Craven Street, Strand": {
+        "pickup": "global",
+        "dropoff": "global"
+    },
+    "Crawford Street, Marylebone": {
+        "pickup": "global",
+        "dropoff": "global"
+    },
+    "Crimscott Street, Bermondsey": {
+        "pickup": "station",
+        "dropoff": "station"
+    },
+    "Crinan Street, King's Cross": {
+        "pickup": "average",
+        "dropoff": "average"
+    },
+    "Crisp Road, Hammersmith": {
+        "pickup": "cluster",
+        "dropoff": "cluster"
+    },
+    "Cromer Street, Bloomsbury": {
+        "pickup": "station",
+        "dropoff": "average"
+    },
+    "Crosswall, Tower": {
+        "pickup": "cluster",
+        "dropoff": "global"
+    },
+    "Culvert Road, Battersea": {
+        "pickup": "station",
+        "dropoff": "average"
+    },
+    "Curlew Street, Shad Thames": {
+        "pickup": "cluster",
+        "dropoff": "global"
+    },
+    "Curzon Street, Mayfair": {
+        "pickup": "station",
+        "dropoff": "station"
+    },
+    "Danvers Street, West Chelsea": {
+        "pickup": "average",
+        "dropoff": "average"
+    },
+    "De Vere Gardens, Kensington": {
+        "pickup": "cluster",
+        "dropoff": "cluster"
+    },
+    "Denyer Street, Knightsbridge": {
+        "pickup": "average",
+        "dropoff": "average"
+    },
+    "Derry Street, Kensington": {
+        "pickup": "cluster",
+        "dropoff": "cluster"
+    },
+    "Devons Road, Bow": {
+        "pickup": "average",
+        "dropoff": "average"
+    },
+    "Devonshire Terrace, Bayswater": {
+        "pickup": "global",
+        "dropoff": "global"
+    },
+    "Dickens Square, Borough": {
+        "pickup": "station",
+        "dropoff": "average"
+    },
+    "Disraeli Road, Putney": {
+        "pickup": "average",
+        "dropoff": "average"
+    },
+    "Dock Street, Wapping": {
+        "pickup": "cluster",
+        "dropoff": "station"
+    },
+    "Doddington Grove, Kennington": {
+        "pickup": "station",
+        "dropoff": "station"
+    },
+    "Doric Way , Somers Town": {
+        "pickup": "global",
+        "dropoff": "station"
+    },
+    "Dorothy Road, Clapham Junction": {
+        "pickup": "station",
+        "dropoff": "station"
+    },
+    "Dorset Square, Marylebone": {
+        "pickup": "global",
+        "dropoff": "global"
+    },
+    "Drayton Gardens, West Chelsea": {
+        "pickup": "global",
+        "dropoff": "global"
+    },
+    "Driffield Road, Old Ford": {
+        "pickup": "cluster",
+        "dropoff": "cluster"
+    },
+    "Drummond Street , Euston": {
+        "pickup": "station",
+        "dropoff": "station"
+    },
+    "Drury Lane, Covent Garden": {
+        "pickup": "global",
+        "dropoff": "global"
+    },
+    "Duke Street Hill, London Bridge": {
+        "pickup": "cluster",
+        "dropoff": "global"
+    },
+    "Dunston Road , Haggerston": {
+        "pickup": "cluster",
+        "dropoff": "global"
+    },
+    "Durant Street, Bethnal Green": {
+        "pickup": "station",
+        "dropoff": "station"
+    },
+    "Eagle Wharf Road, Hoxton": {
+        "pickup": "cluster",
+        "dropoff": "global"
+    },
+    "Earnshaw Street , Covent Garden": {
+        "pickup": "global",
+        "dropoff": "global"
+    },
+    "East Ferry Road, Cubitt Town": {
+        "pickup": "average",
+        "dropoff": "average"
+    },
+    "East India DLR, Blackwall": {
+        "pickup": "average",
+        "dropoff": "station"
+    },
+    "East Road, Hoxton": {
+        "pickup": "station",
+        "dropoff": "station"
+    },
+    "East Village, Queen Elizabeth Olympic Park": {
+        "pickup": "cluster",
+        "dropoff": "cluster"
+    },
+    "Eastbourne Mews, Paddington": {
+        "pickup": "global",
+        "dropoff": "global"
+    },
+    "Eaton Square (South), Belgravia": {
+        "pickup": "average",
+        "dropoff": "station"
+    },
+    "Eaton Square, Belgravia": {
+        "pickup": "average",
+        "dropoff": "average"
+    },
+    "Ebury Bridge, Pimlico": {
+        "pickup": "station",
+        "dropoff": "average"
+    },
+    "Eccleston Place, Victoria": {
+        "pickup": "global",
+        "dropoff": "global"
+    },
+    "Edgware Road Station, Marylebone": {
+        "pickup": "global",
+        "dropoff": "station"
+    },
+    "Eel Brook Common, Walham Green": {
+        "pickup": "average",
+        "dropoff": "station"
+    },
+    "Elgin Avenue, Maida Hill": {
+        "pickup": "station",
+        "dropoff": "station"
+    },
+    "Elizabeth Bridge, Victoria": {
+        "pickup": "global",
+        "dropoff": "global"
+    },
+    "Elysium Place, Fulham": {
+        "pickup": "station",
+        "dropoff": "average"
+    },
+    "Embankment (Savoy), Strand": {
+        "pickup": "global",
+        "dropoff": "global"
+    },
+    "Emperor's Gate, South Kensington": {
+        "pickup": "cluster",
+        "dropoff": "cluster"
+    },
+    "Empire Square, The Borough": {
+        "pickup": "cluster",
+        "dropoff": "station"
+    },
+    "Endsleigh Gardens, Euston": {
+        "pickup": "global",
+        "dropoff": "global"
+    },
+    "Erin Close, Walham Green": {
+        "pickup": "cluster",
+        "dropoff": "cluster"
+    },
+    "Esmond Street, Putney": {
+        "pickup": "average",
+        "dropoff": "average"
+    },
+    "Ethelburga Estate, Battersea Park": {
+        "pickup": "global",
+        "dropoff": "global"
+    },
+    "Euston Road, Euston": {
+        "pickup": "station",
+        "dropoff": "station"
+    },
+    "Euston Square Gardens, Euston": {
+        "pickup": "station",
+        "dropoff": "station"
+    },
+    "Everington Street, Fulham": {
+        "pickup": "station",
+        "dropoff": "average"
+    },
+    "Eversholt Street , Camden Town": {
+        "pickup": "station",
+        "dropoff": "average"
+    },
+    "Evesham Street, Avondale": {
+        "pickup": "average",
+        "dropoff": "station"
+    },
+    "Exhibition Road Museums 1, South Kensington": {
+        "pickup": "global",
+        "dropoff": "global"
+    },
+    "Exhibition Road Museums 2, South Kensington": {
+        "pickup": "global",
+        "dropoff": "global"
+    },
+    "Exhibition Road, Knightsbridge": {
+        "pickup": "global",
+        "dropoff": "global"
+    },
+    "Falcon Road, Clapham Junction": {
+        "pickup": "global",
+        "dropoff": "global"
+    },
+    "Falkirk Street, Hoxton": {
+        "pickup": "station",
+        "dropoff": "station"
+    },
+    "Fanshaw Street, Hoxton": {
+        "pickup": "cluster",
+        "dropoff": "global"
+    },
+    "Farm Street, Mayfair": {
+        "pickup": "station",
+        "dropoff": "station"
+    },
+    "Farringdon Lane, Clerkenwell": {
+        "pickup": "station",
+        "dropoff": "station"
+    },
+    "Farringdon Street, Holborn": {
+        "pickup": "station",
+        "dropoff": "station"
+    },
+    "Fashion Street, Whitechapel": {
+        "pickup": "average",
+        "dropoff": "average"
+    },
+    "Fawcett Close, Battersea": {
+        "pickup": "station",
+        "dropoff": "average"
+    },
+    "Felsham Road, Putney": {
+        "pickup": "average",
+        "dropoff": "average"
+    },
+    "Ferndale Road, Brixton": {
+        "pickup": "station",
+        "dropoff": "global"
+    },
+    "Finlay Street, Fulham": {
+        "pickup": "cluster",
+        "dropoff": "cluster"
+    },
+    "Finnis Street, Bethnal Green": {
+        "pickup": "station",
+        "dropoff": "station"
+    },
+    "Finsbury Circus, Liverpool Street": {
+        "pickup": "cluster",
+        "dropoff": "global"
+    },
+    "Finsbury Leisure Centre, St. Luke's": {
+        "pickup": "cluster",
+        "dropoff": "global"
+    },
+    "Finsbury Library , Finsbury": {
+        "pickup": "station",
+        "dropoff": "station"
+    },
+    "Finsbury Square , Moorgate": {
+        "pickup": "station",
+        "dropoff": "global"
+    },
+    "Fire Brigade Pier, Vauxhall": {
+        "pickup": "station",
+        "dropoff": "station"
+    },
+    "Fisherman's Walk West, Canary Wharf": {
+        "pickup": "cluster",
+        "dropoff": "cluster"
+    },
+    "Flamborough Street, Limehouse": {
+        "pickup": "cluster",
+        "dropoff": "cluster"
+    },
+    "Flood Street, Chelsea": {
+        "pickup": "global",
+        "dropoff": "global"
+    },
+    "Foley Street, Fitzrovia": {
+        "pickup": "station",
+        "dropoff": "station"
+    },
+    "Ford Road, Old Ford": {
+        "pickup": "cluster",
+        "dropoff": "cluster"
+    },
+    "Fore Street Avenue, Guildhall": {
+        "pickup": "station",
+        "dropoff": "station"
+    },
+    "Fore Street, Guildhall": {
+        "pickup": "station",
+        "dropoff": "station"
+    },
+    "Fournier Street, Whitechapel": {
+        "pickup": "cluster",
+        "dropoff": "global"
+    },
+    "Frampton Street, Paddington": {
+        "pickup": "station",
+        "dropoff": "station"
+    },
+    "Freston Road, Avondale": {
+        "pickup": "average",
+        "dropoff": "average"
+    },
+    "Frith Street, Soho": {
+        "pickup": "global",
+        "dropoff": "global"
+    },
+    "Fulham Broadway, Walham Green": {
+        "pickup": "cluster",
+        "dropoff": "cluster"
+    },
+    "Fulham Park Road, Fulham": {
+        "pickup": "station",
+        "dropoff": "cluster"
+    },
+    "Furze Green, Bow": {
+        "pickup": "cluster",
+        "dropoff": "cluster"
+    },
+    "Garnet Street, Shadwell": {
+        "pickup": "cluster",
+        "dropoff": "cluster"
+    },
+    "Gas Holders, Battersea Park": {
+        "pickup": "global",
+        "dropoff": "global"
+    },
+    "Gascoyne Road, Victoria Park": {
+        "pickup": "cluster",
+        "dropoff": "cluster"
+    },
+    "Gauden Road, Clapham": {
+        "pickup": "station",
+        "dropoff": "global"
+    },
+    "Gaywood  Street, Elephant & Castle": {
+        "pickup": "station",
+        "dropoff": "station"
+    },
+    "George Place Mews, Marylebone": {
+        "pickup": "station",
+        "dropoff": "station"
+    },
+    "George Row, Bermondsey": {
+        "pickup": "cluster",
+        "dropoff": "global"
+    },
+    "George Street, Marylebone": {
+        "pickup": "global",
+        "dropoff": "global"
+    },
+    "Geraldine Street, Elephant & Castle": {
+        "pickup": "station",
+        "dropoff": "station"
+    },
+    "Globe Town Market, Bethnal Green": {
+        "pickup": "cluster",
+        "dropoff": "cluster"
+    },
+    "Gloucester Avenue, Camden Town": {
+        "pickup": "station",
+        "dropoff": "average"
+    },
+    "Gloucester Road (Central), South Kensington": {
+        "pickup": "average",
+        "dropoff": "station"
+    },
+    "Gloucester Road (North), Kensington": {
+        "pickup": "global",
+        "dropoff": "global"
+    },
+    "Gloucester Road Station, South Kensington": {
+        "pickup": "global",
+        "dropoff": "global"
+    },
+    "Gloucester Street, Pimlico": {
+        "pickup": "global",
+        "dropoff": "station"
+    },
+    "Gloucester Terrace, Bayswater": {
+        "pickup": "station",
+        "dropoff": "station"
+    },
+    "Godliman Street, St. Paul's": {
+        "pickup": "cluster",
+        "dropoff": "global"
+    },
+    "Golden Lane, Barbican": {
+        "pickup": "average",
+        "dropoff": "global"
+    },
+    "Golden Square, Soho": {
+        "pickup": "global",
+        "dropoff": "global"
+    },
+    "Goldsmith's Row, Haggerston": {
+        "pickup": "cluster",
+        "dropoff": "global"
+    },
+    "Good's Way, King's Cross": {
+        "pickup": "global",
+        "dropoff": "global"
+    },
+    "Goswell Road (City Uni), Finsbury": {
+        "pickup": "station",
+        "dropoff": "average"
+    },
+    "Gower Place , Euston": {
+        "pickup": "station",
+        "dropoff": "station"
+    },
+    "Grafton Street, Mayfair": {
+        "pickup": "station",
+        "dropoff": "station"
+    },
+    "Graham Street, Angel": {
+        "pickup": "cluster",
+        "dropoff": "station"
+    },
+    "Granby Street, Shoreditch": {
+        "pickup": "station",
+        "dropoff": "global"
+    },
+    "Grant Road East, Clapham Junction": {
+        "pickup": "station",
+        "dropoff": "station"
+    },
+    "Great Dover Street, The Borough": {
+        "pickup": "cluster",
+        "dropoff": "global"
+    },
+    "Great Percy Street, Clerkenwell": {
+        "pickup": "station",
+        "dropoff": "station"
+    },
+    "Great Russell Street, Bloomsbury": {
+        "pickup": "global",
+        "dropoff": "global"
+    },
+    "Great Suffolk Street, The Borough": {
+        "pickup": "station",
+        "dropoff": "station"
+    },
+    "Great Titchfield Street, Fitzrovia": {
+        "pickup": "station",
+        "dropoff": "station"
+    },
+    "Great Tower Street, Monument": {
+        "pickup": "cluster",
+        "dropoff": "global"
+    },
+    "Green Park Station, Mayfair": {
+        "pickup": "global",
+        "dropoff": "global"
+    },
+    "Green Street, Mayfair": {
+        "pickup": "global",
+        "dropoff": "global"
+    },
+    "Greenberry Street, St.John's Wood": {
+        "pickup": "station",
+        "dropoff": "average"
+    },
+    "Greenland Road, Camden Town": {
+        "pickup": "global",
+        "dropoff": "global"
+    },
+    "Grenfell Road, Avondale": {
+        "pickup": "average",
+        "dropoff": "average"
+    },
+    "Greycoat Street , Westminster": {
+        "pickup": "station",
+        "dropoff": "average"
+    },
+    "Greyhound Road, Hammersmith": {
+        "pickup": "cluster",
+        "dropoff": "cluster"
+    },
+    "Grosvenor Crescent, Belgravia": {
+        "pickup": "station",
+        "dropoff": "station"
+    },
+    "Grosvenor Road, Pimlico": {
+        "pickup": "average",
+        "dropoff": "average"
+    },
+    "Grosvenor Square, Mayfair": {
+        "pickup": "global",
+        "dropoff": "global"
+    },
+    "Grove End Road, St. John's Wood": {
+        "pickup": "global",
+        "dropoff": "average"
+    },
+    "Guildhouse Street, Victoria": {
+        "pickup": "average",
+        "dropoff": "station"
+    },
+    "Guilford Street , Bloomsbury": {
+        "pickup": "station",
+        "dropoff": "global"
+    },
+    "Gunmakers Lane, Old Ford": {
+        "pickup": "cluster",
+        "dropoff": "cluster"
+    },
+    "Gwendwr Road, West Kensington": {
+        "pickup": "station",
+        "dropoff": "station"
+    },
+    "Haggerston Road, Haggerston": {
+        "pickup": "cluster",
+        "dropoff": "global"
+    },
+    "Halford Road, West Kensington": {
+        "pickup": "cluster",
+        "dropoff": "cluster"
+    },
+    "Hammersmith Road, Hammersmith": {
+        "pickup": "cluster",
+        "dropoff": "cluster"
+    },
+    "Hampstead Road, Euston": {
+        "pickup": "global",
+        "dropoff": "global"
+    },
+    "Hampton Street, Walworth": {
+        "pickup": "station",
+        "dropoff": "station"
+    },
+    "Handyside Street, King's Cross": {
+        "pickup": "global",
+        "dropoff": "global"
+    },
+    "Hansard Mews, Holland Park": {
+        "pickup": "average",
+        "dropoff": "station"
+    },
+    "Harcourt Terrace, West Brompton": {
+        "pickup": "station",
+        "dropoff": "station"
+    },
+    "Hardwick Street, Clerkenwell": {
+        "pickup": "station",
+        "dropoff": "station"
+    },
+    "Harford Street, Mile End": {
+        "pickup": "average",
+        "dropoff": "average"
+    },
+    "Harper Road, The Borough": {
+        "pickup": "station",
+        "dropoff": "average"
+    },
+    "Harriet Street, Knightsbridge": {
+        "pickup": "global",
+        "dropoff": "global"
+    },
+    "Harrington Square 1, Camden Town": {
+        "pickup": "station",
+        "dropoff": "average"
+    },
+    "Harris Academy, Bermondsey": {
+        "pickup": "station",
+        "dropoff": "station"
+    },
+    "Harrowby Street, Marylebone": {
+        "pickup": "average",
+        "dropoff": "average"
+    },
+    "Hartington Road, Stockwell": {
+        "pickup": "station",
+        "dropoff": "station"
+    },
+    "Hatton Garden, Holborn": {
+        "pickup": "cluster",
+        "dropoff": "global"
+    },
+    "Hatton Wall, Holborn": {
+        "pickup": "cluster",
+        "dropoff": "global"
+    },
+    "Hawley Crescent, Camden Town": {
+        "pickup": "average",
+        "dropoff": "average"
+    },
+    "Heath Road, Battersea": {
+        "pickup": "station",
+        "dropoff": "station"
+    },
+    "Here East North, Queen Elizabeth Olympic Park": {
+        "pickup": "average",
+        "dropoff": "average"
+    },
+    "Here East South, Queen Elizabeth Olympic Park": {
+        "pickup": "average",
+        "dropoff": "station"
+    },
+    "Hereford Road, Bayswater": {
+        "pickup": "cluster",
+        "dropoff": "cluster"
+    },
+    "Hermitage Court, Wapping": {
+        "pickup": "station",
+        "dropoff": "station"
+    },
+    "Heron Quays DLR, Canary Wharf": {
+        "pickup": "station",
+        "dropoff": "average"
+    },
+    "Hertford Road, De Beauvoir Town": {
+        "pickup": "station",
+        "dropoff": "station"
+    },
+    "Hewison Street, Old Ford": {
+        "pickup": "cluster",
+        "dropoff": "cluster"
+    },
+    "Hibbert Street, Battersea": {
+        "pickup": "station",
+        "dropoff": "station"
+    },
+    "High Holborn , Covent Garden": {
+        "pickup": "global",
+        "dropoff": "global"
+    },
+    "Hinde Street, Marylebone": {
+        "pickup": "global",
+        "dropoff": "global"
+    },
+    "Holborn Circus, Holborn": {
+        "pickup": "cluster",
+        "dropoff": "global"
+    },
+    "Holden Street, Battersea": {
+        "pickup": "station",
+        "dropoff": "average"
+    },
+    "Holland Park, Kensington": {
+        "pickup": "cluster",
+        "dropoff": "average"
+    },
+    "Hollybush Gardens, Bethnal Green": {
+        "pickup": "average",
+        "dropoff": "station"
+    },
+    "Holy Trinity Brompton, Knightsbridge": {
+        "pickup": "global",
+        "dropoff": "global"
+    },
+    "Hop Exchange, The Borough": {
+        "pickup": "cluster",
+        "dropoff": "global"
+    },
+    "Horseferry Road, Westminster": {
+        "pickup": "station",
+        "dropoff": "station"
+    },
+    "Hortensia Road, West Brompton": {
+        "pickup": "global",
+        "dropoff": "global"
+    },
+    "Houghton Street, Strand": {
+        "pickup": "global",
+        "dropoff": "station"
+    },
+    "Houndsditch, Aldgate": {
+        "pickup": "station",
+        "dropoff": "global"
+    },
+    "Howick Place, Westminster": {
+        "pickup": "global",
+        "dropoff": "global"
+    },
+    "Howland Street, Fitzrovia": {
+        "pickup": "global",
+        "dropoff": "global"
+    },
+    "Hoxton Station, Hoxton": {
+        "pickup": "station",
+        "dropoff": "station"
+    },
+    "Hoxton Street, Hoxton": {
+        "pickup": "average",
+        "dropoff": "average"
+    },
+    "Humbolt Road, Fulham": {
+        "pickup": "cluster",
+        "dropoff": "station"
+    },
+    "Hurlingham Park, Parsons Green": {
+        "pickup": "average",
+        "dropoff": "average"
+    },
+    "Hyde Park Corner, Hyde Park": {
+        "pickup": "global",
+        "dropoff": "global"
+    },
+    "Ilchester Gardens, Bayswater": {
+        "pickup": "cluster",
+        "dropoff": "cluster"
+    },
+    "Ilchester Place, Kensington": {
+        "pickup": "average",
+        "dropoff": "average"
+    },
+    "Imperial College, Knightsbridge": {
+        "pickup": "global",
+        "dropoff": "global"
+    },
+    "Imperial Road, Sands End": {
+        "pickup": "average",
+        "dropoff": "average"
+    },
+    "Imperial Wharf Station, Sands End": {
+        "pickup": "global",
+        "dropoff": "global"
+    },
+    "Import Dock, Canary Wharf": {
+        "pickup": "cluster",
+        "dropoff": "cluster"
+    },
+    "Ingrave Street, Clapham Junction": {
+        "pickup": "station",
+        "dropoff": "average"
+    },
+    "Irene Road, Parsons Green": {
+        "pickup": "station",
+        "dropoff": "station"
+    },
+    "Islington Green, Angel": {
+        "pickup": "cluster",
+        "dropoff": "global"
+    },
+    "Jewry Street, Aldgate": {
+        "pickup": "station",
+        "dropoff": "station"
+    },
+    "Jubilee Crescent, Cubitt Town": {
+        "pickup": "average",
+        "dropoff": "average"
+    },
+    "Jubilee Plaza, Canary Wharf": {
+        "pickup": "cluster",
+        "dropoff": "cluster"
+    },
+    "Jubilee Street, Stepney": {
+        "pickup": "station",
+        "dropoff": "average"
+    },
+    "Kennington Cross, Kennington": {
+        "pickup": "global",
+        "dropoff": "global"
+    },
+    "Kennington Lane Rail Bridge, Vauxhall": {
+        "pickup": "global",
+        "dropoff": "global"
+    },
+    "Kennington Lane Rail Bridge, Vauxhall_OLD": {
+        "pickup": "global",
+        "dropoff": "global"
+    },
+    "Kennington Oval, Oval": {
+        "pickup": "station",
+        "dropoff": "station"
+    },
+    "Kennington Oval, Oval_OLD": {
+        "pickup": "global",
+        "dropoff": "average"
+    },
+    "Kennington Road Post Office, Oval": {
+        "pickup": "station",
+        "dropoff": "station"
+    },
+    "Kennington Road, Vauxhall": {
+        "pickup": "station",
+        "dropoff": "average"
+    },
+    "Kennington Station, Kennington": {
+        "pickup": "station",
+        "dropoff": "average"
+    },
+    "Kensington Church Street, Kensington": {
+        "pickup": "cluster",
+        "dropoff": "cluster"
+    },
+    "Kensington Gore, Knightsbridge": {
+        "pickup": "global",
+        "dropoff": "global"
+    },
+    "Kensington Olympia Station, Olympia": {
+        "pickup": "station",
+        "dropoff": "station"
+    },
+    "Kensington Town Hall, Kensington": {
+        "pickup": "average",
+        "dropoff": "average"
+    },
+    "Killick Street, King's Cross": {
+        "pickup": "average",
+        "dropoff": "average"
+    },
+    "King Edward Street, St Pauls": {
+        "pickup": "station",
+        "dropoff": "station"
+    },
+    "King Edward Walk, Waterloo": {
+        "pickup": "average",
+        "dropoff": "average"
+    },
+    "Kings Gate House, Westminster": {
+        "pickup": "station",
+        "dropoff": "station"
+    },
+    "Kingsway Southbound, Strand": {
+        "pickup": "global",
+        "dropoff": "global"
+    },
+    "Kingsway, Covent Garden": {
+        "pickup": "station",
+        "dropoff": "station"
+    },
+    "Knaresborough Place, Earl's Court": {
+        "pickup": "cluster",
+        "dropoff": "cluster"
+    },
+    "Knightsbridge, Hyde Park": {
+        "pickup": "global",
+        "dropoff": "average"
+    },
+    "LMU Commercial Road, Whitechapel": {
+        "pickup": "station",
+        "dropoff": "average"
+    },
+    "LSBU (Borough Road), Elephant & Castle": {
+        "pickup": "average",
+        "dropoff": "station"
+    },
+    "Ladbroke Grove Central, Ladbroke Grove": {
+        "pickup": "average",
+        "dropoff": "station"
+    },
+    "Lambeth North Station, Waterloo": {
+        "pickup": "average",
+        "dropoff": "average"
+    },
+    "Lambeth Palace Road, Waterloo": {
+        "pickup": "global",
+        "dropoff": "global"
+    },
+    "Lambeth Road, Vauxhall": {
+        "pickup": "average",
+        "dropoff": "average"
+    },
+    "Lancaster Drive, Blackwall": {
+        "pickup": "average",
+        "dropoff": "average"
+    },
+    "Lancaster Gate , Bayswater": {
+        "pickup": "cluster",
+        "dropoff": "cluster"
+    },
+    "Langdon Park, Poplar": {
+        "pickup": "average",
+        "dropoff": "average"
+    },
+    "Lansdowne Drive, Hackney Central": {
+        "pickup": "station",
+        "dropoff": "global"
+    },
+    "Lansdowne Road, Ladbroke Grove": {
+        "pickup": "cluster",
+        "dropoff": "cluster"
+    },
+    "Lansdowne Walk, Ladbroke Grove": {
+        "pickup": "average",
+        "dropoff": "average"
+    },
+    "Lavington Street, Bankside": {
+        "pickup": "station",
+        "dropoff": "global"
+    },
+    "Lee Valley VeloPark, Queen Elizabeth Olympic Park": {
+        "pickup": "cluster",
+        "dropoff": "cluster"
+    },
+    "Leman Street, Aldgate": {
+        "pickup": "cluster",
+        "dropoff": "global"
+    },
+    "Leonard Circus , Shoreditch": {
+        "pickup": "cluster",
+        "dropoff": "global"
+    },
+    "Leonard Circus , Shoreditch_OLD": {
+        "pickup": "cluster",
+        "dropoff": "global"
+    },
+    "Lexham Gardens, Kensington": {
+        "pickup": "cluster",
+        "dropoff": "cluster"
+    },
+    "Lightermans Road, Millwall": {
+        "pickup": "average",
+        "dropoff": "average"
+    },
+    "Limburg Road, Clapham Junction": {
+        "pickup": "station",
+        "dropoff": "average"
+    },
+    "Limburg Road, Clapham Junction_OLD": {
+        "pickup": "average",
+        "dropoff": "average"
+    },
+    "Limerston Street, West Chelsea": {
+        "pickup": "global",
+        "dropoff": "global"
+    },
+    "Lincoln's Inn Fields, Holborn": {
+        "pickup": "global",
+        "dropoff": "global"
+    },
+    "Lindfield Street, Poplar": {
+        "pickup": "cluster",
+        "dropoff": "cluster"
+    },
+    "Lisson Grove, St. John's Wood": {
+        "pickup": "average",
+        "dropoff": "average"
+    },
+    "Little Argyll Street, West End": {
+        "pickup": "global",
+        "dropoff": "global"
+    },
+    "Little Brook Green, Brook Green": {
+        "pickup": "average",
+        "dropoff": "cluster"
+    },
+    "Liverpool Road (N1 Centre), Angel": {
+        "pickup": "cluster",
+        "dropoff": "global"
+    },
+    "Lollard Street, Vauxhall": {
+        "pickup": "station",
+        "dropoff": "station"
+    },
+    "London Fields, Hackney Central": {
+        "pickup": "cluster",
+        "dropoff": "global"
+    },
+    "London Street, Paddington": {
+        "pickup": "global",
+        "dropoff": "global"
+    },
+    "London Zoo Car Park, The Regent's Park": {
+        "pickup": "average",
+        "dropoff": "global"
+    },
+    "London Zoo,  The Regent's Park": {
+        "pickup": "global",
+        "dropoff": "average"
+    },
+    "Long Lane , Bermondsey": {
+        "pickup": "station",
+        "dropoff": "station"
+    },
+    "Longford Street, The Regent's Park": {
+        "pickup": "average",
+        "dropoff": "average"
+    },
+    "Lord's, St. John's Wood": {
+        "pickup": "average",
+        "dropoff": "average"
+    },
+    "Lots Road, West Chelsea": {
+        "pickup": "average",
+        "dropoff": "station"
+    },
+    "Lower Marsh, Waterloo": {
+        "pickup": "station",
+        "dropoff": "station"
+    },
+    "Lower Thames Street, Monument": {
+        "pickup": "cluster",
+        "dropoff": "global"
+    },
+    "Macclesfield Rd, St Lukes": {
+        "pickup": "cluster",
+        "dropoff": "global"
+    },
+    "Maida Vale, Maida Vale": {
+        "pickup": "global",
+        "dropoff": "global"
+    },
+    "Malet Street, Bloomsbury": {
+        "pickup": "global",
+        "dropoff": "global"
+    },
+    "Mallory Street, Marylebone": {
+        "pickup": "average",
+        "dropoff": "average"
+    },
+    "Malmesbury Road, Bow": {
+        "pickup": "average",
+        "dropoff": "average"
+    },
+    "Manbre Road, Hammersmith": {
+        "pickup": "station",
+        "dropoff": "station"
+    },
+    "Manresa Road, Chelsea": {
+        "pickup": "station",
+        "dropoff": "station"
+    },
+    "Maplin Street, Mile End": {
+        "pickup": "cluster",
+        "dropoff": "cluster"
+    },
+    "Margery Street, Clerkenwell": {
+        "pickup": "station",
+        "dropoff": "station"
+    },
+    "Marloes Road, Kensington": {
+        "pickup": "average",
+        "dropoff": "average"
+    },
+    "Marylebone Lane, Marylebone": {
+        "pickup": "global",
+        "dropoff": "global"
+    },
+    "Mechanical Workshop Clapham": {
+        "pickup": "global",
+        "dropoff": "average"
+    },
+    "Merchant Street, Bow": {
+        "pickup": "average",
+        "dropoff": "station"
+    },
+    "Mexfield Road, East Putney": {
+        "pickup": "station",
+        "dropoff": "average"
+    },
+    "Michael Road, Walham Green": {
+        "pickup": "average",
+        "dropoff": "station"
+    },
+    "Mile End Park Leisure Centre, Mile End": {
+        "pickup": "cluster",
+        "dropoff": "cluster"
+    },
+    "Mile End Stadium, Mile End": {
+        "pickup": "cluster",
+        "dropoff": "cluster"
+    },
+    "Millbank Tower, Pimlico": {
+        "pickup": "global",
+        "dropoff": "global"
+    },
+    "Millennium Hotel, Mayfair": {
+        "pickup": "station",
+        "dropoff": "station"
+    },
+    "Millharbour, Millwall": {
+        "pickup": "average",
+        "dropoff": "average"
+    },
+    "Milroy Walk, South Bank": {
+        "pickup": "station",
+        "dropoff": "station"
+    },
+    "Monier Road, Hackney Wick": {
+        "pickup": "cluster",
+        "dropoff": "cluster"
+    },
+    "Montpelier Street, Knightsbridge": {
+        "pickup": "global",
+        "dropoff": "global"
+    },
+    "Montserrat Road , Putney": {
+        "pickup": "average",
+        "dropoff": "station"
+    },
+    "Monument Street, Monument": {
+        "pickup": "cluster",
+        "dropoff": "global"
+    },
+    "Moor Street, Soho": {
+        "pickup": "global",
+        "dropoff": "global"
+    },
+    "Moorfields, Moorgate": {
+        "pickup": "cluster",
+        "dropoff": "global"
+    },
+    "Morie Street, Wandsworth": {
+        "pickup": "station",
+        "dropoff": "average"
+    },
+    "Mostyn Grove, Bow": {
+        "pickup": "station",
+        "dropoff": "average"
+    },
+    "Mudchute DLR, Cubitt Town": {
+        "pickup": "average",
+        "dropoff": "average"
+    },
+    "Murray Grove , Hoxton": {
+        "pickup": "station",
+        "dropoff": "station"
+    },
+    "Museum of London, Barbican": {
+        "pickup": "cluster",
+        "dropoff": "global"
+    },
+    "Nantes Close, Wandsworth": {
+        "pickup": "station",
+        "dropoff": "average"
+    },
+    "Napier Avenue, Millwall": {
+        "pickup": "average",
+        "dropoff": "average"
+    },
+    "Natural History Museum, South Kensington": {
+        "pickup": "global",
+        "dropoff": "global"
+    },
+    "Naval Row, Blackwall": {
+        "pickup": "average",
+        "dropoff": "average"
+    },
+    "Nesham Street, Wapping": {
+        "pickup": "cluster",
+        "dropoff": "global"
+    },
+    "Nevern Place, Earl's Court": {
+        "pickup": "average",
+        "dropoff": "average"
+    },
+    "Neville Gill Close, Wandsworth": {
+        "pickup": "average",
+        "dropoff": "station"
+    },
+    "New Cavendish Street, Marylebone": {
+        "pickup": "station",
+        "dropoff": "global"
+    },
+    "New Fetter Lane, Holborn": {
+        "pickup": "station",
+        "dropoff": "global"
+    },
+    "New Globe Walk, Bankside": {
+        "pickup": "average",
+        "dropoff": "station"
+    },
+    "New Inn Yard, Shoreditch": {
+        "pickup": "station",
+        "dropoff": "global"
+    },
+    "New Kent Road, The Borough": {
+        "pickup": "station",
+        "dropoff": "station"
+    },
+    "New North Road 2, Hoxton": {
+        "pickup": "station",
+        "dropoff": "station"
+    },
+    "New Road 1 , Whitechapel": {
+        "pickup": "cluster",
+        "dropoff": "global"
+    },
+    "New Spring Gardens Walk, Vauxhall": {
+        "pickup": "average",
+        "dropoff": "average"
+    },
+    "Newby Place, Poplar": {
+        "pickup": "average",
+        "dropoff": "average"
+    },
+    "Newgate Street , St. Paul's": {
+        "pickup": "cluster",
+        "dropoff": "global"
+    },
+    "Newton Street, Covent Garden": {
+        "pickup": "station",
+        "dropoff": "station"
+    },
+    "Normand Park, West Kensington": {
+        "pickup": "cluster",
+        "dropoff": "cluster"
+    },
+    "Normandy Road, Stockwell": {
+        "pickup": "station",
+        "dropoff": "station"
+    },
+    "North Audley Street, Mayfair": {
+        "pickup": "global",
+        "dropoff": "global"
+    },
+    "North Wharf Road, Paddington": {
+        "pickup": "station",
+        "dropoff": "station"
+    },
+    "Northdown Street, King's Cross": {
+        "pickup": "average",
+        "dropoff": "average"
+    },
+    "Northfields, Wandsworth": {
+        "pickup": "station",
+        "dropoff": "average"
+    },
+    "Northington Street , Holborn": {
+        "pickup": "global",
+        "dropoff": "station"
+    },
+    "Northumberland Avenue, Strand": {
+        "pickup": "global",
+        "dropoff": "global"
+    },
+    "Norton Folgate, Liverpool Street": {
+        "pickup": "cluster",
+        "dropoff": "station"
+    },
+    "Notting Hill Gate Station, Notting Hill": {
+        "pickup": "cluster",
+        "dropoff": "cluster"
+    },
+    "Nutford Place, Marylebone": {
+        "pickup": "station",
+        "dropoff": "average"
+    },
+    "Old Brompton Road, South Kensington": {
+        "pickup": "station",
+        "dropoff": "station"
+    },
+    "Old Ford Road, Bethnal Green": {
+        "pickup": "station",
+        "dropoff": "average"
+    },
+    "Old Montague Street, Whitechapel": {
+        "pickup": "station",
+        "dropoff": "station"
+    },
+    "Old Quebec Street, Marylebone": {
+        "pickup": "global",
+        "dropoff": "global"
+    },
+    "Old Street Station, St. Luke's": {
+        "pickup": "cluster",
+        "dropoff": "global"
+    },
+    "Ontario Street, Elephant & Castle": {
+        "pickup": "station",
+        "dropoff": "station"
+    },
+    "Orbel Street, Battersea": {
+        "pickup": "station",
+        "dropoff": "station"
+    },
+    "Ormonde Gate, Chelsea": {
+        "pickup": "station",
+        "dropoff": "average"
+    },
+    "Orsett Terrace, Bayswater": {
+        "pickup": "average",
+        "dropoff": "average"
+    },
+    "Osiers Road, Wandsworth": {
+        "pickup": "station",
+        "dropoff": "station"
+    },
+    "Ossulston Street, Somers Town": {
+        "pickup": "global",
+        "dropoff": "global"
+    },
+    "Oxford Road, Putney": {
+        "pickup": "average",
+        "dropoff": "average"
+    },
+    "Paddington Green, Paddington": {
+        "pickup": "average",
+        "dropoff": "average"
+    },
+    "Paddington Street, Marylebone": {
+        "pickup": "global",
+        "dropoff": "global"
+    },
+    "Page Street, Westminster": {
+        "pickup": "global",
+        "dropoff": "global"
+    },
+    "Palace Gardens Terrace, Notting Hill": {
+        "pickup": "cluster",
+        "dropoff": "cluster"
+    },
+    "Palace Gate, Kensington Gardens": {
+        "pickup": "cluster",
+        "dropoff": "cluster"
+    },
+    "Palissy Street, Shoreditch": {
+        "pickup": "station",
+        "dropoff": "average"
+    },
+    "Pall Mall East, West End": {
+        "pickup": "global",
+        "dropoff": "global"
+    },
+    "Pancras Road, King's Cross": {
+        "pickup": "average",
+        "dropoff": "average"
+    },
+    "Panton Street, West End": {
+        "pickup": "global",
+        "dropoff": "global"
+    },
+    "Park Lane , Hyde Park": {
+        "pickup": "global",
+        "dropoff": "global"
+    },
+    "Park Lane, Mayfair": {
+        "pickup": "average",
+        "dropoff": "station"
+    },
+    "Park Road (Baker Street), The Regent's Park": {
+        "pickup": "global",
+        "dropoff": "global"
+    },
+    "Park Street, Bankside": {
+        "pickup": "cluster",
+        "dropoff": "global"
+    },
+    "Parkway, Camden Town": {
+        "pickup": "average",
+        "dropoff": "global"
+    },
+    "Parson's Green , Parson's Green": {
+        "pickup": "cluster",
+        "dropoff": "cluster"
+    },
+    "Parsons Green Station, Parsons Green": {
+        "pickup": "cluster",
+        "dropoff": "cluster"
+    },
+    "Pembridge Villas, Notting Hill": {
+        "pickup": "cluster",
+        "dropoff": "cluster"
+    },
+    "Penfold Street, Marylebone": {
+        "pickup": "average",
+        "dropoff": "average"
+    },
+    "Pennington Street, Wapping": {
+        "pickup": "station",
+        "dropoff": "average"
+    },
+    "Penywern Road, Earl's Court": {
+        "pickup": "cluster",
+        "dropoff": "cluster"
+    },
+    "Percival Street, Finsbury": {
+        "pickup": "station",
+        "dropoff": "average"
+    },
+    "Percy Street, Bloomsbury": {
+        "pickup": "global",
+        "dropoff": "global"
+    },
+    "Peterborough Road, Sands End": {
+        "pickup": "station",
+        "dropoff": "average"
+    },
+    "Phene Street, Chelsea": {
+        "pickup": "station",
+        "dropoff": "station"
+    },
+    "Phillimore Gardens, Kensington": {
+        "pickup": "cluster",
+        "dropoff": "cluster"
+    },
+    "Philpot Street, Whitechapel": {
+        "pickup": "station",
+        "dropoff": "station"
+    },
+    "Pindar Street, Liverpool Street": {
+        "pickup": "station",
+        "dropoff": "station"
+    },
+    "Pitfield Street Central, Hoxton": {
+        "pickup": "station",
+        "dropoff": "station"
+    },
+    "Pitfield Street North,Hoxton": {
+        "pickup": "cluster",
+        "dropoff": "global"
+    },
+    "Plough Terrace, Clapham Junction": {
+        "pickup": "station",
+        "dropoff": "station"
+    },
+    "Podium, Queen Elizabeth Olympic Park": {
+        "pickup": "cluster",
+        "dropoff": "cluster"
+    },
+    "Pont Street, Knightsbridge": {
+        "pickup": "station",
+        "dropoff": "global"
+    },
+    "Porchester Place, Paddington": {
+        "pickup": "global",
+        "dropoff": "global"
+    },
+    "Portland Place, Marylebone": {
+        "pickup": "station",
+        "dropoff": "global"
+    },
+    "Portman Square, Marylebone": {
+        "pickup": "station",
+        "dropoff": "global"
+    },
+    "Portugal Street, Holborn": {
+        "pickup": "station",
+        "dropoff": "station"
+    },
+    "Pott Street, Bethnal Green": {
+        "pickup": "station",
+        "dropoff": "average"
+    },
+    "Poured Lines, Bankside": {
+        "pickup": "station",
+        "dropoff": "average"
+    },
+    "Preston's Road, Cubitt Town": {
+        "pickup": "average",
+        "dropoff": "average"
+    },
+    "Prince Albert Road, The Regent's Park": {
+        "pickup": "global",
+        "dropoff": "global"
+    },
+    "Prince Consort Road, Knightsbridge": {
+        "pickup": "global",
+        "dropoff": "global"
+    },
+    "Prince of Wales Drive, Battersea Park": {
+        "pickup": "station",
+        "dropoff": "average"
+    },
+    "Princedale Road , Holland Park": {
+        "pickup": "station",
+        "dropoff": "average"
+    },
+    "Princes Square, Bayswater": {
+        "pickup": "cluster",
+        "dropoff": "average"
+    },
+    "Pritchard's Road, Bethnal Green": {
+        "pickup": "cluster",
+        "dropoff": "global"
+    },
+    "Pritchard's Road, Bethnal Green_OLD": {
+        "pickup": "average",
+        "dropoff": "average"
+    },
+    "Putney Bridge Road, East Putney": {
+        "pickup": "station",
+        "dropoff": "average"
+    },
+    "Putney Bridge Station, Fulham": {
+        "pickup": "station",
+        "dropoff": "average"
+    },
+    "Putney Pier, Wandsworth": {
+        "pickup": "station",
+        "dropoff": "cluster"
+    },
+    "Putney Rail Station, Putney": {
+        "pickup": "average",
+        "dropoff": "average"
+    },
+    "Queen Mary's, Mile End": {
+        "pickup": "cluster",
+        "dropoff": "global"
+    },
+    "Queen Mother Sports Centre, Victoria": {
+        "pickup": "global",
+        "dropoff": "global"
+    },
+    "Queen Street 1, Bank": {
+        "pickup": "cluster",
+        "dropoff": "global"
+    },
+    "Queen Street 2, Bank": {
+        "pickup": "cluster",
+        "dropoff": "global"
+    },
+    "Queen Victoria Street, St. Paul's": {
+        "pickup": "cluster",
+        "dropoff": "global"
+    },
+    "Queen's Circus, Battersea Park": {
+        "pickup": "global",
+        "dropoff": "global"
+    },
+    "Queen's Gate (Central), South Kensington": {
+        "pickup": "global",
+        "dropoff": "global"
+    },
+    "Queen's Gate (North), Kensington": {
+        "pickup": "global",
+        "dropoff": "global"
+    },
+    "Queen's Gate (South), South Kensington": {
+        "pickup": "average",
+        "dropoff": "global"
+    },
+    "Queen's Gate, Kensington Gardens": {
+        "pickup": "global",
+        "dropoff": "global"
+    },
+    "Queensbridge Road, Haggerston": {
+        "pickup": "station",
+        "dropoff": "station"
+    },
+    "Queensdale Road, Shepherd's Bush": {
+        "pickup": "average",
+        "dropoff": "average"
+    },
+    "Queensway, Kensington Gardens": {
+        "pickup": "global",
+        "dropoff": "global"
+    },
+    "Rainville Road, Hammersmith": {
+        "pickup": "average",
+        "dropoff": "station"
+    },
+    "Ram Street, Wandsworth": {
+        "pickup": "station",
+        "dropoff": "station"
+    },
+    "Rampayne Street, Pimlico": {
+        "pickup": "global",
+        "dropoff": "station"
+    },
+    "Ranelagh Gardens, Fulham": {
+        "pickup": "average",
+        "dropoff": "average"
+    },
+    "Rathbone Street, Fitzrovia": {
+        "pickup": "station",
+        "dropoff": "station"
+    },
+    "Ravenscourt Park Station, Hammersmith": {
+        "pickup": "cluster",
+        "dropoff": "cluster"
+    },
+    "Reardon Street, Wapping": {
+        "pickup": "station",
+        "dropoff": "station"
+    },
+    "Rectory Square, Stepney": {
+        "pickup": "station",
+        "dropoff": "average"
+    },
+    "Red Lion Square, Holborn": {
+        "pickup": "station",
+        "dropoff": "station"
+    },
+    "Red Lion Street, Holborn": {
+        "pickup": "global",
+        "dropoff": "global"
+    },
+    "Regency Street, Westminster": {
+        "pickup": "station",
+        "dropoff": "station"
+    },
+    "Regent's Row , Haggerston": {
+        "pickup": "cluster",
+        "dropoff": "global"
+    },
+    "Richmond Way, Shepherd's Bush": {
+        "pickup": "station",
+        "dropoff": "cluster"
+    },
+    "Rifle Place, Avondale": {
+        "pickup": "average",
+        "dropoff": "average"
+    },
+    "Risinghill Street, Angel": {
+        "pickup": "station",
+        "dropoff": "average"
+    },
+    "River Street , Clerkenwell": {
+        "pickup": "station",
+        "dropoff": "average"
+    },
+    "Riverlight North, Nine Elms": {
+        "pickup": "global",
+        "dropoff": "global"
+    },
+    "Riverlight South, Nine Elms": {
+        "pickup": "station",
+        "dropoff": "global"
+    },
+    "Rochester Row, Westminster": {
+        "pickup": "station",
+        "dropoff": "station"
+    },
+    "Rodney Road , Walworth": {
+        "pickup": "station",
+        "dropoff": "average"
+    },
+    "Roscoe Street, St. Luke's": {
+        "pickup": "station",
+        "dropoff": "station"
+    },
+    "Rotherhithe Roundabout, Rotherhithe": {
+        "pickup": "cluster",
+        "dropoff": "cluster"
+    },
+    "Royal Avenue 1, Chelsea": {
+        "pickup": "average",
+        "dropoff": "average"
+    },
+    "Royal Avenue 2, Chelsea": {
+        "pickup": "station",
+        "dropoff": "average"
+    },
+    "Royal College Street, Camden Town": {
+        "pickup": "station",
+        "dropoff": "average"
+    },
+    "Royal London Hospital, Whitechapel": {
+        "pickup": "cluster",
+        "dropoff": "global"
+    },
+    "Russell Gardens, Olympia": {
+        "pickup": "station",
+        "dropoff": "average"
+    },
+    "Russell Square Station, Bloomsbury": {
+        "pickup": "station",
+        "dropoff": "global"
+    },
+    "Sackville Street, Mayfair": {
+        "pickup": "global",
+        "dropoff": "global"
+    },
+    "Sadlers Sports Centre, Finsbury": {
+        "pickup": "station",
+        "dropoff": "station"
+    },
+    "Sail Street, Vauxhall": {
+        "pickup": "station",
+        "dropoff": "station"
+    },
+    "Salmon Lane, Limehouse": {
+        "pickup": "cluster",
+        "dropoff": "cluster"
+    },
+    "Saltoun Road, Brixton": {
+        "pickup": "station",
+        "dropoff": "station"
+    },
+    "Sancroft Street, Vauxhall": {
+        "pickup": "station",
+        "dropoff": "station"
+    },
+    "Sandilands Road, Walham Green": {
+        "pickup": "station",
+        "dropoff": "station"
+    },
+    "Santos Road, Wandsworth": {
+        "pickup": "station",
+        "dropoff": "average"
+    },
+    "Sardinia Street, Holborn": {
+        "pickup": "global",
+        "dropoff": "global"
+    },
+    "Saunders Ness Road, Cubitt Town": {
+        "pickup": "cluster",
+        "dropoff": "cluster"
+    },
+    "Scala Street, Fitzrovia": {
+        "pickup": "station",
+        "dropoff": "station"
+    },
+    "Sea Containers, South Bank": {
+        "pickup": "global",
+        "dropoff": "global"
+    },
+    "Sedding Street, Sloane Square": {
+        "pickup": "global",
+        "dropoff": "global"
+    },
+    "Selby Street, Whitechapel": {
+        "pickup": "average",
+        "dropoff": "average"
+    },
+    "Serpentine Car Park, Hyde Park": {
+        "pickup": "global",
+        "dropoff": "global"
+    },
+    "Seville Street, Knightsbridge": {
+        "pickup": "global",
+        "dropoff": "global"
+    },
+    "Seymour Place, Marylebone": {
+        "pickup": "global",
+        "dropoff": "station"
+    },
+    "Shadwell Station, Shadwell": {
+        "pickup": "cluster",
+        "dropoff": "cluster"
+    },
+    "Sheepcote Lane, Battersea": {
+        "pickup": "station",
+        "dropoff": "station"
+    },
+    "Shepherd's Bush Road North, Shepherd's Bush": {
+        "pickup": "station",
+        "dropoff": "station"
+    },
+    "Shoreditch Court, Haggerston": {
+        "pickup": "station",
+        "dropoff": "average"
+    },
+    "Shoreditch High Street, Shoreditch": {
+        "pickup": "cluster",
+        "dropoff": "global"
+    },
+    "Shoreditch Park, Hoxton": {
+        "pickup": "cluster",
+        "dropoff": "global"
+    },
+    "Shouldham Street, Marylebone": {
+        "pickup": "station",
+        "dropoff": "station"
+    },
+    "Sidney Road, Stockwell": {
+        "pickup": "station",
+        "dropoff": "average"
+    },
+    "Silverthorne Road, Battersea": {
+        "pickup": "station",
+        "dropoff": "station"
+    },
+    "Simpson Street, Clapham Junction": {
+        "pickup": "station",
+        "dropoff": "global"
+    },
+    "Sirdar Road, Avondale": {
+        "pickup": "average",
+        "dropoff": "station"
+    },
+    "Sloane Avenue, Knightsbridge": {
+        "pickup": "station",
+        "dropoff": "station"
+    },
+    "Smith Square, Westminster": {
+        "pickup": "station",
+        "dropoff": "station"
+    },
+    "Smugglers Way, Wandsworth": {
+        "pickup": "average",
+        "dropoff": "average"
+    },
+    "Snow Hill, Farringdon": {
+        "pickup": "station",
+        "dropoff": "station"
+    },
+    "Snowsfields, London Bridge": {
+        "pickup": "cluster",
+        "dropoff": "global"
+    },
+    "Soho Square , Soho": {
+        "pickup": "global",
+        "dropoff": "global"
+    },
+    "Somerset House, Strand": {
+        "pickup": "global",
+        "dropoff": "global"
+    },
+    "Sopwith Way, Battersea Park": {
+        "pickup": "global",
+        "dropoff": "global"
+    },
+    "South Audley Street, Mayfair": {
+        "pickup": "station",
+        "dropoff": "station"
+    },
+    "South Bermondsey Station, Bermondsey": {
+        "pickup": "average",
+        "dropoff": "station"
+    },
+    "South Kensington Station, South Kensington": {
+        "pickup": "global",
+        "dropoff": "global"
+    },
+    "South Lambeth Road, Vauxhall": {
+        "pickup": "global",
+        "dropoff": "global"
+    },
+    "South Parade, Chelsea": {
+        "pickup": "average",
+        "dropoff": "station"
+    },
+    "South Park, Sands End": {
+        "pickup": "station",
+        "dropoff": "station"
+    },
+    "South Quay East, Canary Wharf": {
+        "pickup": "station",
+        "dropoff": "average"
+    },
+    "South Wharf Road, Paddington": {
+        "pickup": "global",
+        "dropoff": "station"
+    },
+    "Southampton Place, Holborn": {
+        "pickup": "station",
+        "dropoff": "station"
+    },
+    "Southampton Street, Strand": {
+        "pickup": "global",
+        "dropoff": "global"
+    },
+    "Southern Grove, Bow": {
+        "pickup": "average",
+        "dropoff": "average"
+    },
+    "Southerton Road, Hammersmith": {
+        "pickup": "station",
+        "dropoff": "cluster"
+    },
+    "Southwark Station 1, Southwark": {
+        "pickup": "average",
+        "dropoff": "station"
+    },
+    "Southwark Station 2, Southwark": {
+        "pickup": "global",
+        "dropoff": "global"
+    },
+    "Southwark Street, Bankside": {
+        "pickup": "station",
+        "dropoff": "station"
+    },
+    "Southwick Street, Paddington": {
+        "pickup": "global",
+        "dropoff": "station"
+    },
+    "Spanish Road, Clapham Junction": {
+        "pickup": "average",
+        "dropoff": "average"
+    },
+    "Spencer Park, Wandsworth Common": {
+        "pickup": "station",
+        "dropoff": "station"
+    },
+    "Spindrift Avenue, Millwall": {
+        "pickup": "station",
+        "dropoff": "average"
+    },
+    "St John's Crescent, Brixton": {
+        "pickup": "average",
+        "dropoff": "station"
+    },
+    "St Martins Close, Camden Town": {
+        "pickup": "station",
+        "dropoff": "average"
+    },
+    "St Mary's Hospital, Paddington": {
+        "pickup": "global",
+        "dropoff": "global"
+    },
+    "St. Bride Street, Holborn": {
+        "pickup": "cluster",
+        "dropoff": "global"
+    },
+    "St. Chad's Street, King's Cross": {
+        "pickup": "average",
+        "dropoff": "average"
+    },
+    "St. George Street, Mayfair": {
+        "pickup": "station",
+        "dropoff": "global"
+    },
+    "St. George's Square, Pimlico": {
+        "pickup": "global",
+        "dropoff": "station"
+    },
+    "St. James's Square, St. James's": {
+        "pickup": "global",
+        "dropoff": "global"
+    },
+    "St. John Street, Finsbury": {
+        "pickup": "station",
+        "dropoff": "station"
+    },
+    "St. John's Park, Cubitt Town": {
+        "pickup": "average",
+        "dropoff": "station"
+    },
+    "St. John's Road, Clapham Junction": {
+        "pickup": "station",
+        "dropoff": "global"
+    },
+    "St. John's Wood Church, The Regent's Park": {
+        "pickup": "global",
+        "dropoff": "average"
+    },
+    "St. John's Wood Road, St. John's Wood": {
+        "pickup": "station",
+        "dropoff": "average"
+    },
+    "St. Katharine's Way, Tower": {
+        "pickup": "cluster",
+        "dropoff": "global"
+    },
+    "St. Luke's Church, Chelsea": {
+        "pickup": "station",
+        "dropoff": "station"
+    },
+    "St. Mark's Road, North Kensington": {
+        "pickup": "station",
+        "dropoff": "average"
+    },
+    "St. Martin's Street, West End": {
+        "pickup": "global",
+        "dropoff": "global"
+    },
+    "St. Mary & St. Michael Church, Stepney": {
+        "pickup": "average",
+        "dropoff": "average"
+    },
+    "St. Mary Axe, Aldgate": {
+        "pickup": "cluster",
+        "dropoff": "global"
+    },
+    "St. Peter's Terrace, Fulham": {
+        "pickup": "cluster",
+        "dropoff": "cluster"
+    },
+    "Stainsby Road , Poplar": {
+        "pickup": "cluster",
+        "dropoff": "station"
+    },
+    "Stamford Street, South Bank": {
+        "pickup": "station",
+        "dropoff": "station"
+    },
+    "Stanhope Gate, Mayfair": {
+        "pickup": "station",
+        "dropoff": "station"
+    },
+    "Stanley Grove, Battersea": {
+        "pickup": "station",
+        "dropoff": "station"
+    },
+    "Star Road, West Kensington": {
+        "pickup": "station",
+        "dropoff": "cluster"
+    },
+    "Stebondale Street, Cubitt Town": {
+        "pickup": "average",
+        "dropoff": "average"
+    },
+    "Stephendale Road, Sands End": {
+        "pickup": "station",
+        "dropoff": "station"
+    },
+    "Stepney Green Station, Stepney": {
+        "pickup": "cluster",
+        "dropoff": "cluster"
+    },
+    "Stewart's Road, Wandsworth Road": {
+        "pickup": "station",
+        "dropoff": "average"
+    },
+    "Store Street, Bloomsbury": {
+        "pickup": "global",
+        "dropoff": "global"
+    },
+    "Storey's Gate, Westminster": {
+        "pickup": "global",
+        "dropoff": "global"
+    },
+    "Strand, Strand": {
+        "pickup": "global",
+        "dropoff": "global"
+    },
+    "Strata, Elephant & Castle": {
+        "pickup": "global",
+        "dropoff": "global"
+    },
+    "Stratford Station, Stratford": {
+        "pickup": "cluster",
+        "dropoff": "cluster"
+    },
+    "Sugden Road, Clapham": {
+        "pickup": "station",
+        "dropoff": "station"
+    },
+    "Sumner Place, South Kensington": {
+        "pickup": "station",
+        "dropoff": "station"
+    },
+    "Sun Street, Liverpool Street": {
+        "pickup": "station",
+        "dropoff": "global"
+    },
+    "Surrey Lane, Battersea": {
+        "pickup": "station",
+        "dropoff": "station"
+    },
+    "Sutton Street, Shadwell": {
+        "pickup": "cluster",
+        "dropoff": "cluster"
+    },
+    "Swan Street, The Borough": {
+        "pickup": "station",
+        "dropoff": "station"
+    },
+    "Tachbrook Street, Victoria": {
+        "pickup": "global",
+        "dropoff": "global"
+    },
+    "Tallis Street, Temple": {
+        "pickup": "global",
+        "dropoff": "station"
+    },
+    "Tanner Street, Bermondsey": {
+        "pickup": "cluster",
+        "dropoff": "global"
+    },
+    "Tate Modern, Bankside": {
+        "pickup": "cluster",
+        "dropoff": "global"
+    },
+    "Tavistock Place, Bloomsbury": {
+        "pickup": "average",
+        "dropoff": "station"
+    },
+    "Tavistock Street, Covent Garden": {
+        "pickup": "global",
+        "dropoff": "global"
+    },
+    "Taviton Street, Bloomsbury": {
+        "pickup": "global",
+        "dropoff": "global"
+    },
+    "Temple Gardens, Temple": {
+        "pickup": "global",
+        "dropoff": "global"
+    },
+    "Teversham Lane, Stockwell": {
+        "pickup": "station",
+        "dropoff": "station"
+    },
+    "Teviot Street, Poplar": {
+        "pickup": "average",
+        "dropoff": "average"
+    },
+    "The Blue, Bermondsey": {
+        "pickup": "station",
+        "dropoff": "station"
+    },
+    "The Guildhall, Guildhall": {
+        "pickup": "cluster",
+        "dropoff": "cluster"
+    },
+    "The Metropolitan, Portobello": {
+        "pickup": "average",
+        "dropoff": "average"
+    },
+    "The Tennis Courts, The Regent's Park": {
+        "pickup": "global",
+        "dropoff": "global"
+    },
+    "The Vale, Chelsea": {
+        "pickup": "station",
+        "dropoff": "global"
+    },
+    "Theobald's Road , Holborn": {
+        "pickup": "station",
+        "dropoff": "global"
+    },
+    "Thorndike Close, West Chelsea": {
+        "pickup": "average",
+        "dropoff": "average"
+    },
+    "Thurtle Road, Haggerston": {
+        "pickup": "station",
+        "dropoff": "station"
+    },
+    "Timber Lodge, Queen Elizabeth Olympic Park": {
+        "pickup": "cluster",
+        "dropoff": "cluster"
+    },
+    "Tooley Street, Bermondsey": {
+        "pickup": "cluster",
+        "dropoff": "global"
+    },
+    "Torrens Street, Angel": {
+        "pickup": "average",
+        "dropoff": "average"
+    },
+    "Tower Gardens , Tower": {
+        "pickup": "cluster",
+        "dropoff": "global"
+    },
+    "Tower Wharf, Bermondsey": {
+        "pickup": "cluster",
+        "dropoff": "global"
+    },
+    "Trebovir Road, Earl's Court": {
+        "pickup": "cluster",
+        "dropoff": "cluster"
+    },
+    "Triangle Car Park, Hyde Park": {
+        "pickup": "global",
+        "dropoff": "global"
+    },
+    "Turquoise Island, Notting Hill": {
+        "pickup": "cluster",
+        "dropoff": "cluster"
+    },
+    "Twig Folly Bridge, Mile End": {
+        "pickup": "cluster",
+        "dropoff": "cluster"
+    },
+    "Tyers Gate, Bermondsey": {
+        "pickup": "average",
+        "dropoff": "station"
+    },
+    "Tysoe Street, Clerkenwell": {
+        "pickup": "cluster",
+        "dropoff": "global"
+    },
+    "Union Grove, Wandsworth Road": {
+        "pickup": "station",
+        "dropoff": "station"
+    },
+    "Union Street, The Borough": {
+        "pickup": "station",
+        "dropoff": "station"
+    },
+    "Upcerne Road, West Chelsea": {
+        "pickup": "station",
+        "dropoff": "station"
+    },
+    "Upper Bank Street, Canary Wharf": {
+        "pickup": "cluster",
+        "dropoff": "cluster"
+    },
+    "Upper Grosvenor Street, Mayfair": {
+        "pickup": "station",
+        "dropoff": "station"
+    },
+    "Upper Richmond Road, Putney": {
+        "pickup": "average",
+        "dropoff": "average"
+    },
+    "Usk Road, Clapham Junction": {
+        "pickup": "station",
+        "dropoff": "station"
+    },
+    "Vauxhall Bridge , Pimlico": {
+        "pickup": "average",
+        "dropoff": "average"
+    },
+    "Vauxhall Cross, Vauxhall": {
+        "pickup": "global",
+        "dropoff": "global"
+    },
+    "Vauxhall Street, Vauxhall": {
+        "pickup": "station",
+        "dropoff": "global"
+    },
+    "Vauxhall Walk, Vauxhall": {
+        "pickup": "average",
+        "dropoff": "station"
+    },
+    "Vereker Road, West Kensington": {
+        "pickup": "cluster",
+        "dropoff": "cluster"
+    },
+    "Vicarage Crescent, Battersea": {
+        "pickup": "global",
+        "dropoff": "global"
+    },
+    "Vicarage Gate, Kensington": {
+        "pickup": "average",
+        "dropoff": "average"
+    },
+    "Victoria & Albert Museum, South Kensington": {
+        "pickup": "global",
+        "dropoff": "global"
+    },
+    "Victoria Park Road, Hackney Central": {
+        "pickup": "cluster",
+        "dropoff": "cluster"
+    },
+    "Victoria Rise, Clapham Common": {
+        "pickup": "station",
+        "dropoff": "station"
+    },
+    "Victory Place, Walworth": {
+        "pickup": "station",
+        "dropoff": "station"
+    },
+    "Vincent Square, Westminster": {
+        "pickup": "average",
+        "dropoff": "average"
+    },
+    "Vincent Street, Pimlico": {
+        "pickup": "station",
+        "dropoff": "average"
+    },
+    "Walmer Road, Avondale": {
+        "pickup": "average",
+        "dropoff": "average"
+    },
+    "Walnut Tree Walk, Vauxhall": {
+        "pickup": "station",
+        "dropoff": "station"
+    },
+    "Walworth Square, Walworth": {
+        "pickup": "global",
+        "dropoff": "global"
+    },
+    "Wandsworth Rd, Isley Court, Wandsworth Road": {
+        "pickup": "station",
+        "dropoff": "station"
+    },
+    "Wandsworth Town Station, Wandsworth": {
+        "pickup": "average",
+        "dropoff": "average"
+    },
+    "Wapping High Street, Wapping": {
+        "pickup": "station",
+        "dropoff": "average"
+    },
+    "Wapping Lane, Wapping": {
+        "pickup": "cluster",
+        "dropoff": "global"
+    },
+    "Wardour Street, Soho": {
+        "pickup": "global",
+        "dropoff": "global"
+    },
+    "Warren Street Station, Euston": {
+        "pickup": "global",
+        "dropoff": "global"
+    },
+    "Warwick Avenue Station, Maida Vale": {
+        "pickup": "global",
+        "dropoff": "global"
+    },
+    "Warwick Road, Olympia": {
+        "pickup": "cluster",
+        "dropoff": "cluster"
+    },
+    "Warwick Row, Westminster": {
+        "pickup": "global",
+        "dropoff": "global"
+    },
+    "Warwick Square, Pimlico": {
+        "pickup": "station",
+        "dropoff": "station"
+    },
+    "Waterloo Bridge, South Bank": {
+        "pickup": "station",
+        "dropoff": "average"
+    },
+    "Waterloo Place, St. James's": {
+        "pickup": "global",
+        "dropoff": "global"
+    },
+    "Waterloo Road, South Bank": {
+        "pickup": "station",
+        "dropoff": "station"
+    },
+    "Waterloo Station 1, Waterloo": {
+        "pickup": "global",
+        "dropoff": "global"
+    },
+    "Waterloo Station 2, Waterloo": {
+        "pickup": "global",
+        "dropoff": "global"
+    },
+    "Waterloo Station 3, Waterloo": {
+        "pickup": "global",
+        "dropoff": "global"
+    },
+    "Watney Market, Stepney": {
+        "pickup": "average",
+        "dropoff": "average"
+    },
+    "Watney Street, Shadwell": {
+        "pickup": "cluster",
+        "dropoff": "cluster"
+    },
+    "Webber Street , Southwark": {
+        "pickup": "station",
+        "dropoff": "station"
+    },
+    "Wellington Arch, Hyde Park": {
+        "pickup": "global",
+        "dropoff": "global"
+    },
+    "Wellington Road, St. John's Wood": {
+        "pickup": "station",
+        "dropoff": "station"
+    },
+    "Wellington Row, Bethnal Green": {
+        "pickup": "station",
+        "dropoff": "station"
+    },
+    "Wellington Street , Strand": {
+        "pickup": "global",
+        "dropoff": "global"
+    },
+    "Wells Street, Fitzrovia": {
+        "pickup": "global",
+        "dropoff": "global"
+    },
+    "Wendon Street, Old Ford": {
+        "pickup": "average",
+        "dropoff": "station"
+    },
+    "Wenlock Road , Hoxton": {
+        "pickup": "cluster",
+        "dropoff": "global"
+    },
+    "West Cromwell Road, Earl's Court": {
+        "pickup": "station",
+        "dropoff": "average"
+    },
+    "West Kensington Station, West Kensington": {
+        "pickup": "station",
+        "dropoff": "station"
+    },
+    "West Smithfield Rotunda, Farringdon": {
+        "pickup": "cluster",
+        "dropoff": "global"
+    },
+    "Westbourne Green, Westbourne": {
+        "pickup": "cluster",
+        "dropoff": "cluster"
+    },
+    "Westbourne Grove, Bayswater": {
+        "pickup": "cluster",
+        "dropoff": "cluster"
+    },
+    "Westbourne Park Road, Portobello": {
+        "pickup": "average",
+        "dropoff": "average"
+    },
+    "Westbridge Road, Battersea": {
+        "pickup": "global",
+        "dropoff": "global"
+    },
+    "Westferry Circus, Canary Wharf": {
+        "pickup": "cluster",
+        "dropoff": "cluster"
+    },
+    "Westferry DLR, Limehouse": {
+        "pickup": "cluster",
+        "dropoff": "cluster"
+    },
+    "Westfield Ariel Way, White City": {
+        "pickup": "cluster",
+        "dropoff": "cluster"
+    },
+    "Westfield Library Corner, Shepherd's Bush": {
+        "pickup": "average",
+        "dropoff": "station"
+    },
+    "Westfield Southern Terrace ,Shepherd's Bush": {
+        "pickup": "average",
+        "dropoff": "average"
+    },
+    "Westminster Bridge Road, Elephant & Castle": {
+        "pickup": "average",
+        "dropoff": "station"
+    },
+    "Westminster Pier, Westminster": {
+        "pickup": "global",
+        "dropoff": "global"
+    },
+    "Westminster University, Marylebone": {
+        "pickup": "average",
+        "dropoff": "average"
+    },
+    "Whiston Road, Haggerston": {
+        "pickup": "station",
+        "dropoff": "station"
+    },
+    "Whitehall Place, Strand": {
+        "pickup": "global",
+        "dropoff": "global"
+    },
+    "William IV Street, Strand": {
+        "pickup": "global",
+        "dropoff": "global"
+    },
+    "William Morris Way, Sands End": {
+        "pickup": "average",
+        "dropoff": "station"
+    },
+    "Windsor Terrace, Hoxton": {
+        "pickup": "station",
+        "dropoff": "station"
+    },
+    "Wood Street, Guildhall": {
+        "pickup": "station",
+        "dropoff": "station"
+    },
+    "Woodstock Grove, Shepherd's Bush": {
+        "pickup": "cluster",
+        "dropoff": "cluster"
+    },
+    "Woodstock Street, Mayfair": {
+        "pickup": "average",
+        "dropoff": "station"
+    },
+    "World's End Place, West Chelsea": {
+        "pickup": "station",
+        "dropoff": "station"
+    },
+    "Wormwood Street, Liverpool Street": {
+        "pickup": "cluster",
+        "dropoff": "global"
+    },
+    "Worship Street, Shoreditch": {
+        "pickup": "cluster",
+        "dropoff": "global"
+    },
+    "Wren Street, Holborn": {
+        "pickup": "global",
+        "dropoff": "global"
+    },
+    "Wright's Lane, Kensington": {
+        "pickup": "cluster",
+        "dropoff": "cluster"
+    },
+    "Wynne Road, Stockwell": {
+        "pickup": "average",
+        "dropoff": "average"
+    },
+    "York Hall, Bethnal Green": {
+        "pickup": "cluster",
+        "dropoff": "cluster"
+    },
+    "York Way, Kings Cross": {
+        "pickup": "station",
+        "dropoff": "station"
+    }
+}

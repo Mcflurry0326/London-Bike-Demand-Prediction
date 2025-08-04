@@ -1,0 +1,816 @@
+station,type
+"Abbey Orchard Street, Westminster",weekday
+"Abbey Orchard Street, Westminster_OLD",weekday
+"Abbotsbury Road, Holland Park",weekend
+"Aberdeen Place, St. John's Wood",weekend
+"Aberfeldy Street, Poplar",weekend
+"Abingdon Green, Westminster",weekday
+"Abingdon Villas, Kensington",weekday
+"Ackroyd Drive, Bow",weekday
+"Ada Street, Hackney Central",weekend
+"Addison Road, Holland Park",weekday
+"Aintree Street, Fulham",weekday
+"Albany Street, The Regent's Park",weekend
+"Albert Bridge Road, Battersea Park",weekday
+"Albert Embankment, Vauxhall",weekday
+"Albert Embankment, Vauxhall_OLD",weekday
+"Albert Gardens, Stepney",weekend
+"Albert Gate, Hyde Park",weekend
+"Albert Square, Stockwell",weekday
+"Albert Street, Camden Town",weekend
+"Alderney Street, Pimlico",weekend
+"Aldersgate Street, Barbican",weekday
+"Alfreda Street, Battersea Park",weekend
+"All Saints Church, Portobello",weekend
+"All Saints' Road, Portobello",weekend
+"Allington Street, Victoria",weekday
+"Alma Road, Wandsworth",weekday
+"Alpha Grove, Millwall",weekend
+"Ampton Street , Clerkenwell",weekday
+"Ansell House, Stepney",weekend
+"Antill Road, Mile End",weekend
+"Archbishop's Park, Waterloo",weekday
+"Argyle Street, Kings Cross",weekday
+"Argyll Road, Kensington",weekend
+"Arlington Road, Camden Town",weekend
+"Arundel Street, Temple",weekday
+"Ashley Crescent, Battersea",weekday
+"Ashley Place, Victoria",weekday
+"Ashmole Estate, Oval",weekday
+"Aston Street, Stepney",weekday
+"Austin Road, Battersea Park",weekday
+"Aylward Street, Stepney",weekday
+"BBC White City, White City",weekday
+"Baker Street, Marylebone",weekday
+"Baldwin Street, St. Luke's",weekday
+"Bancroft Road, Bethnal Green",weekday
+"Bank of England Museum, Bank",weekday
+"Bankside Mix, Bankside",weekday
+"Barbican Centre, Barbican",weekday
+"Barons Court Station, West Kensington",weekday
+"Bath Street, St. Lke's",weekday
+"Bath Street, St. Luke's",weekday
+"Battersea Church Road, Battersea",weekday
+"Battersea Park Road, Nine Elms",weekend
+"Battersea Power Station, Battersea Park",weekend
+"Bayley Street , Bloomsbury",weekday
+"Baylis Road, Waterloo",weekday
+"Bayswater Road, Hyde Park",weekend
+"Beaumont Street, Marylebone",weekday
+"Bedford Way, Bloomsbury",weekday
+"Belford House, Haggerston",weekend
+"Belgrave Road, Victoria",weekday
+"Belgrave Square, Belgravia",weekday
+"Bell Lane, Liverpool Street",weekday
+"Bell Street , Marylebone",weekday
+"Belvedere Road 1, South Bank",weekday
+"Belvedere Road 2, South Bank",weekday
+"Bermondsey Station, Bermondsey",weekend
+"Bermondsey Street, Bermondsey",weekday
+"Berry Street, Clerkenwell",weekday
+"Beryl Road, Hammersmith",weekday
+"Bethnal Green Garden, Bethnal Green",weekend
+"Bethnal Green Road, Shoreditch",weekday
+"Bevington Road West, North Kensington",weekend
+"Binfield Road, Stockwell",weekday
+"Birkenhead Street, King's Cross",weekday
+"Bishop's Avenue, Fulham",weekend
+"Bishop's Bridge Road East, Bayswater",weekday
+"Bishop's Bridge Road West, Bayswater",weekend
+"Black Lion Gate, Kensington Gardens",weekend
+"Black Prince Road, Vauxhall",weekday
+"Blackfriars Road, Southwark",weekday
+"Blackfriars Station, St. Paul's",weekday
+"Blenheim Crescent, Ladbroke Grove",weekend
+"Blythe Road West, Shepherd's Bush",weekend
+"Blythe Road, Olympia",weekday
+"Bolsover Street, Fitzrovia",weekday
+"Bonner Gate, Victoria Park",weekend
+"Bonny Street, Camden Town",weekday
+"Borough High Street, The Borough",weekday
+"Borough Road, Elephant & Castle",weekday
+"Boston Place, Marylebone",weekday
+"Bourne Street, Belgravia",weekend
+"Bouverie Street, Temple",weekday
+"Bow Church Station, Bow",weekend
+"Bow Road Station, Bow",weekday
+"Braham Street, Aldgate",weekday
+"Bramham Gardens, Earl's Court",weekday
+"Brandon Street, Walworth",weekday
+"Breams Buildings, Holborn",weekday
+"Brick Lane Market, Shoreditch",weekend
+"Bricklayers Arms, Borough",weekday
+"Bridge Avenue, Hammersmith",weekend
+"British Museum, Bloomsbury",weekday
+"Broadcasting House, Marylebone",weekday
+"Broadley Terrace, Marylebone",weekday
+"Broadwick Street, Soho",weekday
+"Bromley High Street, Bow",weekend
+"Brook Green South, Brook Green",weekday
+"Broomhouse Lane, Parsons Green",weekend
+"Brunswick Square, Bloomsbury",weekday
+"Brushfield Street, Liverpool Street",weekday
+"Bruton Street, Mayfair",weekday
+"Buckingham Gate, Westminster",weekend
+"Bunhill Row, Moorgate",weekday
+"Burdett Road, Mile End",weekend
+"Burgess Park Albany Road, Walworth",weekend
+"Bury Place, Holborn",weekday
+"Butler Place, Westminster",weekday
+"Buxton Street 1, Shoreditch",weekend
+"Cadogan Close, Victoria Park",weekend
+"Cadogan Gardens, Chelsea",weekend
+"Cadogan Place, Knightsbridge",weekday
+"Caldwell Street, Stockwell",weekday
+"Calshot Street , King's Cross",weekday
+"Camley Street, Camden Town",weekday
+"Campden Hill Road, Notting Hill",weekend
+"Canada Water Station, Rotherhithe",weekend
+"Canton Street, Poplar",weekend
+"Cantrell Road, Bow",weekday
+"Carey Street, Holborn",weekday
+"Carnegie Street, King's Cross",weekend
+"Cartwright Gardens , Bloomsbury",weekday
+"Castlehaven Road, Camden Town",weekend
+"Central House, Aldgate",weekday
+"Cephas Street, Bethnal Green",weekday
+"Chadwell Street, Angel",weekday
+"Chancery Lane, Holborn",weekday
+"Chapel Place, Marylebone",weekday
+"Charing Cross Hospital, Hammersmith",weekday
+"Charlbert Street, St. John's Wood",weekend
+"Charles II Street, West End",weekday
+"Charlotte Street, Fitzrovia",weekday
+"Charlotte Terrace, Angel",weekday
+"Cheapside, Bank",weekday
+"Chelsea Bridge, Pimlico",weekend
+"Chelsea Green, Chelsea",weekday
+"Chepstow Villas, Notting Hill",weekend
+"Cheshire Street, Bethnal Green",weekday
+"Chesilton Road, Fulham",weekday
+"Chicheley Street, South Bank",weekday
+"Chrisp Street Market, Poplar",weekend
+"Christian Street, Whitechapel",weekday
+"Christopher Street, Liverpool Street",weekday
+"City Road, Angel",weekday
+"Clapham Common North Side, Clapham Common",weekend
+"Clapham Common Station, Clapham Common",weekend
+"Clapham Road, Lingham Street, Stockwell",weekend
+"Clapham South, Clapham South",weekend
+"Claremont Square, Angel",weekday
+"Clarence Walk, Stockwell",weekend
+"Clarendon Road, Avondale",weekend
+"Clarges Street, Mayfair",weekday
+"Clarkson Street, Bethnal Green",weekday
+"Claverton Street, Pimlico",weekday
+"Cleaver Street, Kennington",weekday
+"Clements Road, Bermondsey",weekday
+"Clerkenwell Green, Clerkenwell",weekday
+"Cleveland Gardens, Bayswater",weekday
+"Cleveland Way, Stepney",weekday
+"Clifford Street, Mayfair",weekday
+"Clifton Road, Maida Vale",weekday
+"Clifton Street, Shoreditch",weekday
+"Clinton Road, Mile End",weekend
+"Cloudesley Road, Angel",weekday
+"Colet Gardens, Hammersmith",weekend
+"Collingham Gardens, Earl's Court",weekday
+"Colombo Street, Southwark",weekday
+"Columbia Road, Shoreditch",weekday
+"Commercial Street, Shoreditch",weekend
+"Concert Hall Approach 1, South Bank",weekday
+"Concert Hall Approach 2, South Bank",weekday
+"Coomer Place, West Kensington",weekday
+"Copper Box Arena, Queen Elizabeth Olympic Park",weekend
+"Coram Street, Bloomsbury",weekday
+"Cotton Garden Estate, Kennington",weekday
+"Courland Grove, Wandsworth Road",weekday
+"Crabtree Lane, Fulham",weekday
+"Cranmer Road, Stockwell",weekday
+"Craven Street, Strand",weekday
+"Crawford Street, Marylebone",weekday
+"Crimscott Street, Bermondsey",weekday
+"Crinan Street, King's Cross",weekday
+"Crisp Road, Hammersmith",weekend
+"Cromer Street, Bloomsbury",weekday
+"Crosswall, Tower",weekday
+"Culvert Road, Battersea",weekday
+"Curlew Street, Shad Thames",weekday
+"Curzon Street, Mayfair",weekday
+"Danvers Street, West Chelsea",weekend
+"De Vere Gardens, Kensington",weekend
+"Denyer Street, Knightsbridge",weekday
+"Derry Street, Kensington",weekday
+"Devons Road, Bow",weekend
+"Devonshire Terrace, Bayswater",weekday
+"Dickens Square, Borough",weekday
+"Disraeli Road, Putney",weekday
+"Dock Street, Wapping",weekday
+"Doddington Grove, Kennington",weekday
+"Doric Way , Somers Town",weekday
+"Dorothy Road, Clapham Junction",weekend
+"Dorset Square, Marylebone",weekday
+"Drayton Gardens, West Chelsea",weekday
+"Driffield Road, Old Ford",weekend
+"Drummond Street , Euston",weekday
+"Drury Lane, Covent Garden",weekday
+"Duke Street Hill, London Bridge",weekday
+"Dunston Road , Haggerston",weekend
+"Durant Street, Bethnal Green",weekday
+"Eagle Wharf Road, Hoxton",weekday
+"Earnshaw Street , Covent Garden",weekday
+"East Ferry Road, Cubitt Town",weekend
+"East India DLR, Blackwall",weekend
+"East Road, Hoxton",weekday
+"East Village, Queen Elizabeth Olympic Park",weekend
+"Eastbourne Mews, Paddington",weekday
+"Eaton Square (South), Belgravia",weekend
+"Eaton Square, Belgravia",weekday
+"Ebury Bridge, Pimlico",weekday
+"Eccleston Place, Victoria",weekday
+"Edgware Road Station, Marylebone",weekday
+"Eel Brook Common, Walham Green",weekday
+"Elgin Avenue, Maida Hill",weekend
+"Elizabeth Bridge, Victoria",weekday
+"Elysium Place, Fulham",weekend
+"Embankment (Savoy), Strand",weekend
+"Emperor's Gate, South Kensington",weekday
+"Empire Square, The Borough",weekday
+"Endsleigh Gardens, Euston",weekday
+"Erin Close, Walham Green",weekday
+"Esmond Street, Putney",weekend
+"Ethelburga Estate, Battersea Park",weekday
+"Euston Road, Euston",weekday
+"Euston Square Gardens, Euston",weekday
+"Everington Street, Fulham",weekday
+"Eversholt Street , Camden Town",weekday
+"Evesham Street, Avondale",weekend
+"Exhibition Road Museums 1, South Kensington",weekend
+"Exhibition Road Museums 2, South Kensington",weekend
+"Exhibition Road, Knightsbridge",weekday
+"Falcon Road, Clapham Junction",weekday
+"Falkirk Street, Hoxton",weekday
+"Fanshaw Street, Hoxton",weekday
+"Farm Street, Mayfair",weekday
+"Farringdon Lane, Clerkenwell",weekday
+"Farringdon Street, Holborn",weekday
+"Fashion Street, Whitechapel",weekend
+"Fawcett Close, Battersea",weekday
+"Felsham Road, Putney",weekend
+"Ferndale Road, Brixton",weekend
+"Finlay Street, Fulham",weekend
+"Finnis Street, Bethnal Green",weekday
+"Finsbury Circus, Liverpool Street",weekday
+"Finsbury Leisure Centre, St. Luke's",weekday
+"Finsbury Library , Finsbury",weekday
+"Finsbury Square , Moorgate",weekday
+"Fire Brigade Pier, Vauxhall",weekday
+"Fisherman's Walk West, Canary Wharf",weekend
+"Flamborough Street, Limehouse",weekend
+"Flood Street, Chelsea",weekday
+"Foley Street, Fitzrovia",weekday
+"Ford Road, Old Ford",weekday
+"Fore Street Avenue, Guildhall",weekday
+"Fore Street, Guildhall",weekday
+"Fournier Street, Whitechapel",weekend
+"Frampton Street, Paddington",weekday
+"Freston Road, Avondale",weekend
+"Frith Street, Soho",weekend
+"Fulham Broadway, Walham Green",weekday
+"Fulham Park Road, Fulham",weekend
+"Furze Green, Bow",weekday
+"Garnet Street, Shadwell",weekday
+"Gas Holders, Battersea Park",weekday
+"Gascoyne Road, Victoria Park",weekend
+"Gauden Road, Clapham",weekend
+"Gaywood  Street, Elephant & Castle",weekday
+"George Place Mews, Marylebone",weekday
+"George Row, Bermondsey",weekday
+"George Street, Marylebone",weekday
+"Geraldine Street, Elephant & Castle",weekday
+"Globe Town Market, Bethnal Green",weekend
+"Gloucester Avenue, Camden Town",weekend
+"Gloucester Road (Central), South Kensington",weekday
+"Gloucester Road (North), Kensington",weekday
+"Gloucester Road Station, South Kensington",weekday
+"Gloucester Street, Pimlico",weekday
+"Gloucester Terrace, Bayswater",weekday
+"Godliman Street, St. Paul's",weekday
+"Golden Lane, Barbican",weekday
+"Golden Square, Soho",weekday
+"Goldsmith's Row, Haggerston",weekend
+"Good's Way, King's Cross",weekday
+"Goswell Road (City Uni), Finsbury",weekday
+"Gower Place , Euston",weekday
+"Grafton Street, Mayfair",weekday
+"Graham Street, Angel",weekday
+"Granby Street, Shoreditch",weekend
+"Grant Road East, Clapham Junction",weekday
+"Great Dover Street, The Borough",weekday
+"Great Percy Street, Clerkenwell",weekday
+"Great Russell Street, Bloomsbury",weekday
+"Great Suffolk Street, The Borough",weekday
+"Great Titchfield Street, Fitzrovia",weekday
+"Great Tower Street, Monument",weekday
+"Green Park Station, Mayfair",weekday
+"Green Street, Mayfair",weekend
+"Greenberry Street, St.John's Wood",weekday
+"Greenland Road, Camden Town",weekend
+"Grenfell Road, Avondale",weekday
+"Greycoat Street , Westminster",weekday
+"Greyhound Road, Hammersmith",weekday
+"Grosvenor Crescent, Belgravia",weekend
+"Grosvenor Road, Pimlico",weekday
+"Grosvenor Square, Mayfair",weekday
+"Grove End Road, St. John's Wood",weekday
+"Guildhouse Street, Victoria",weekend
+"Guilford Street , Bloomsbury",weekday
+"Gunmakers Lane, Old Ford",weekend
+"Gwendwr Road, West Kensington",weekend
+"Haggerston Road, Haggerston",weekend
+"Halford Road, West Kensington",weekday
+"Hammersmith Road, Hammersmith",weekday
+"Hampstead Road, Euston",weekday
+"Hampton Street, Walworth",weekday
+"Handyside Street, King's Cross",weekday
+"Hansard Mews, Holland Park",weekend
+"Harcourt Terrace, West Brompton",weekday
+"Hardwick Street, Clerkenwell",weekday
+"Harford Street, Mile End",weekday
+"Harper Road, The Borough",weekend
+"Harriet Street, Knightsbridge",weekend
+"Harrington Square 1, Camden Town",weekday
+"Harris Academy, Bermondsey",weekday
+"Harrowby Street, Marylebone",weekday
+"Hartington Road, Stockwell",weekday
+"Hatton Garden, Holborn",weekday
+"Hatton Wall, Holborn",weekday
+"Hawley Crescent, Camden Town",weekend
+"Heath Road, Battersea",weekday
+"Here East North, Queen Elizabeth Olympic Park",weekend
+"Here East South, Queen Elizabeth Olympic Park",weekend
+"Hereford Road, Bayswater",weekday
+"Hermitage Court, Wapping",weekday
+"Heron Quays DLR, Canary Wharf",weekend
+"Hertford Road, De Beauvoir Town",weekday
+"Hewison Street, Old Ford",weekday
+"Hibbert Street, Battersea",weekday
+"High Holborn , Covent Garden",weekday
+"Hinde Street, Marylebone",weekday
+"Holborn Circus, Holborn",weekday
+"Holden Street, Battersea",weekday
+"Holland Park, Kensington",weekend
+"Hollybush Gardens, Bethnal Green",weekend
+"Holy Trinity Brompton, Knightsbridge",weekday
+"Hop Exchange, The Borough",weekday
+"Horseferry Road, Westminster",weekday
+"Hortensia Road, West Brompton",weekday
+"Houghton Street, Strand",weekday
+"Houndsditch, Aldgate",weekday
+"Howick Place, Westminster",weekday
+"Howland Street, Fitzrovia",weekday
+"Hoxton Station, Hoxton",weekday
+"Hoxton Street, Hoxton",weekday
+"Humbolt Road, Fulham",weekday
+"Hurlingham Park, Parsons Green",weekday
+"Hyde Park Corner, Hyde Park",weekend
+"Ilchester Gardens, Bayswater",weekday
+"Ilchester Place, Kensington",weekend
+"Imperial College, Knightsbridge",weekday
+"Imperial Road, Sands End",weekday
+"Imperial Wharf Station, Sands End",weekday
+"Import Dock, Canary Wharf",weekday
+"Ingrave Street, Clapham Junction",weekday
+"Irene Road, Parsons Green",weekend
+"Islington Green, Angel",weekend
+"Jewry Street, Aldgate",weekday
+"Jubilee Crescent, Cubitt Town",weekend
+"Jubilee Plaza, Canary Wharf",weekday
+"Jubilee Street, Stepney",weekday
+"Kennington Cross, Kennington",weekday
+"Kennington Lane Rail Bridge, Vauxhall",weekday
+"Kennington Lane Rail Bridge, Vauxhall_OLD",weekday
+"Kennington Oval, Oval",weekday
+"Kennington Oval, Oval_OLD",weekend
+"Kennington Road Post Office, Oval",weekday
+"Kennington Road, Vauxhall",weekday
+"Kennington Station, Kennington",weekend
+"Kensington Church Street, Kensington",weekend
+"Kensington Gore, Knightsbridge",weekend
+"Kensington Olympia Station, Olympia",weekday
+"Kensington Town Hall, Kensington",weekday
+"Killick Street, King's Cross",weekday
+"King Edward Street, St Pauls",weekday
+"King Edward Walk, Waterloo",weekday
+"Kings Gate House, Westminster",weekday
+"Kingsway Southbound, Strand",weekday
+"Kingsway, Covent Garden",weekday
+"Knaresborough Place, Earl's Court",weekday
+"Knightsbridge, Hyde Park",weekend
+"LMU Commercial Road, Whitechapel",weekday
+"LSBU (Borough Road), Elephant & Castle",weekday
+"Ladbroke Grove Central, Ladbroke Grove",weekend
+"Lambeth North Station, Waterloo",weekday
+"Lambeth Palace Road, Waterloo",weekday
+"Lambeth Road, Vauxhall",weekday
+"Lancaster Drive, Blackwall",weekend
+"Lancaster Gate , Bayswater",weekend
+"Langdon Park, Poplar",weekend
+"Lansdowne Drive, Hackney Central",weekend
+"Lansdowne Road, Ladbroke Grove",weekday
+"Lansdowne Walk, Ladbroke Grove",weekend
+"Lavington Street, Bankside",weekday
+"Lee Valley VeloPark, Queen Elizabeth Olympic Park",weekend
+"Leman Street, Aldgate",weekday
+"Leonard Circus , Shoreditch",weekday
+"Leonard Circus , Shoreditch_OLD",weekday
+"Lexham Gardens, Kensington",weekday
+"Lightermans Road, Millwall",weekend
+"Limburg Road, Clapham Junction",weekend
+"Limburg Road, Clapham Junction_OLD",weekend
+"Limerston Street, West Chelsea",weekday
+"Lincoln's Inn Fields, Holborn",weekday
+"Lindfield Street, Poplar",weekday
+"Lisson Grove, St. John's Wood",weekday
+"Little Argyll Street, West End",weekday
+"Little Brook Green, Brook Green",weekday
+"Liverpool Road (N1 Centre), Angel",weekend
+"Lollard Street, Vauxhall",weekday
+"London Fields, Hackney Central",weekend
+"London Street, Paddington",weekday
+"London Zoo Car Park, The Regent's Park",weekend
+"London Zoo,  The Regent's Park",weekend
+"Long Lane , Bermondsey",weekday
+"Longford Street, The Regent's Park",weekend
+"Lord's, St. John's Wood",weekend
+"Lots Road, West Chelsea",weekday
+"Lower Marsh, Waterloo",weekday
+"Lower Thames Street, Monument",weekday
+"Macclesfield Rd, St Lukes",weekday
+"Maida Vale, Maida Vale",weekday
+"Malet Street, Bloomsbury",weekday
+"Mallory Street, Marylebone",weekday
+"Malmesbury Road, Bow",weekend
+"Manbre Road, Hammersmith",weekend
+"Manresa Road, Chelsea",weekday
+"Maplin Street, Mile End",weekend
+"Margery Street, Clerkenwell",weekday
+"Marloes Road, Kensington",weekend
+"Marylebone Lane, Marylebone",weekday
+Mechanical Workshop Clapham,weekday
+"Merchant Street, Bow",weekday
+"Mexfield Road, East Putney",weekend
+"Michael Road, Walham Green",weekend
+"Mile End Park Leisure Centre, Mile End",weekend
+"Mile End Stadium, Mile End",weekend
+"Millbank Tower, Pimlico",weekday
+"Millennium Hotel, Mayfair",weekday
+"Millharbour, Millwall",weekend
+"Milroy Walk, South Bank",weekday
+"Monier Road, Hackney Wick",weekend
+"Montpelier Street, Knightsbridge",weekday
+"Montserrat Road , Putney",weekend
+"Monument Street, Monument",weekday
+"Moor Street, Soho",weekend
+"Moorfields, Moorgate",weekday
+"Morie Street, Wandsworth",weekend
+"Mostyn Grove, Bow",weekday
+"Mudchute DLR, Cubitt Town",weekend
+"Murray Grove , Hoxton",weekday
+"Museum of London, Barbican",weekday
+"Nantes Close, Wandsworth",weekend
+"Napier Avenue, Millwall",weekend
+"Natural History Museum, South Kensington",weekday
+"Naval Row, Blackwall",weekend
+"Nesham Street, Wapping",weekday
+"Nevern Place, Earl's Court",weekend
+"Neville Gill Close, Wandsworth",weekend
+"New Cavendish Street, Marylebone",weekday
+"New Fetter Lane, Holborn",weekday
+"New Globe Walk, Bankside",weekday
+"New Inn Yard, Shoreditch",weekday
+"New Kent Road, The Borough",weekday
+"New North Road 2, Hoxton",weekday
+"New Road 1 , Whitechapel",weekday
+"New Spring Gardens Walk, Vauxhall",weekday
+"Newby Place, Poplar",weekend
+"Newgate Street , St. Paul's",weekday
+"Newton Street, Covent Garden",weekday
+"Normand Park, West Kensington",weekday
+"Normandy Road, Stockwell",weekday
+"North Audley Street, Mayfair",weekend
+"North Wharf Road, Paddington",weekday
+"Northdown Street, King's Cross",weekday
+"Northfields, Wandsworth",weekend
+"Northington Street , Holborn",weekday
+"Northumberland Avenue, Strand",weekend
+"Norton Folgate, Liverpool Street",weekday
+"Notting Hill Gate Station, Notting Hill",weekday
+"Nutford Place, Marylebone",weekday
+"Old Brompton Road, South Kensington",weekend
+"Old Ford Road, Bethnal Green",weekend
+"Old Montague Street, Whitechapel",weekday
+"Old Quebec Street, Marylebone",weekday
+"Old Street Station, St. Luke's",weekday
+"Ontario Street, Elephant & Castle",weekday
+"Orbel Street, Battersea",weekday
+"Ormonde Gate, Chelsea",weekday
+"Orsett Terrace, Bayswater",weekday
+"Osiers Road, Wandsworth",weekday
+"Ossulston Street, Somers Town",weekday
+"Oxford Road, Putney",weekday
+"Paddington Green, Paddington",weekday
+"Paddington Street, Marylebone",weekday
+"Page Street, Westminster",weekday
+"Palace Gardens Terrace, Notting Hill",weekday
+"Palace Gate, Kensington Gardens",weekend
+"Palissy Street, Shoreditch",weekday
+"Pall Mall East, West End",weekend
+"Pancras Road, King's Cross",weekday
+"Panton Street, West End",weekend
+"Park Lane , Hyde Park",weekend
+"Park Lane, Mayfair",weekend
+"Park Road (Baker Street), The Regent's Park",weekend
+"Park Street, Bankside",weekend
+"Parkway, Camden Town",weekend
+"Parson's Green , Parson's Green",weekend
+"Parsons Green Station, Parsons Green",weekday
+"Pembridge Villas, Notting Hill",weekend
+"Penfold Street, Marylebone",weekend
+"Pennington Street, Wapping",weekend
+"Penywern Road, Earl's Court",weekday
+"Percival Street, Finsbury",weekday
+"Percy Street, Bloomsbury",weekday
+"Peterborough Road, Sands End",weekday
+"Phene Street, Chelsea",weekday
+"Phillimore Gardens, Kensington",weekend
+"Philpot Street, Whitechapel",weekday
+"Pindar Street, Liverpool Street",weekday
+"Pitfield Street Central, Hoxton",weekday
+"Pitfield Street North,Hoxton",weekday
+"Plough Terrace, Clapham Junction",weekday
+"Podium, Queen Elizabeth Olympic Park",weekend
+"Pont Street, Knightsbridge",weekday
+"Porchester Place, Paddington",weekday
+"Portland Place, Marylebone",weekday
+"Portman Square, Marylebone",weekday
+"Portugal Street, Holborn",weekday
+"Pott Street, Bethnal Green",weekend
+"Poured Lines, Bankside",weekend
+"Preston's Road, Cubitt Town",weekend
+"Prince Albert Road, The Regent's Park",weekend
+"Prince Consort Road, Knightsbridge",weekday
+"Prince of Wales Drive, Battersea Park",weekday
+"Princedale Road , Holland Park",weekend
+"Princes Square, Bayswater",weekday
+"Pritchard's Road, Bethnal Green",weekday
+"Pritchard's Road, Bethnal Green_OLD",weekday
+"Putney Bridge Road, East Putney",weekend
+"Putney Bridge Station, Fulham",weekend
+"Putney Pier, Wandsworth",weekend
+"Putney Rail Station, Putney",weekend
+"Queen Mary's, Mile End",weekday
+"Queen Mother Sports Centre, Victoria",weekday
+"Queen Street 1, Bank",weekday
+"Queen Street 2, Bank",weekday
+"Queen Victoria Street, St. Paul's",weekday
+"Queen's Circus, Battersea Park",weekend
+"Queen's Gate (Central), South Kensington",weekday
+"Queen's Gate (North), Kensington",weekday
+"Queen's Gate (South), South Kensington",weekday
+"Queen's Gate, Kensington Gardens",weekend
+"Queensbridge Road, Haggerston",weekend
+"Queensdale Road, Shepherd's Bush",weekend
+"Queensway, Kensington Gardens",weekend
+"Rainville Road, Hammersmith",weekend
+"Ram Street, Wandsworth",weekend
+"Rampayne Street, Pimlico",weekday
+"Ranelagh Gardens, Fulham",weekend
+"Rathbone Street, Fitzrovia",weekday
+"Ravenscourt Park Station, Hammersmith",weekend
+"Reardon Street, Wapping",weekend
+"Rectory Square, Stepney",weekend
+"Red Lion Square, Holborn",weekday
+"Red Lion Street, Holborn",weekday
+"Regency Street, Westminster",weekday
+"Regent's Row , Haggerston",weekend
+"Richmond Way, Shepherd's Bush",weekday
+"Rifle Place, Avondale",weekday
+"Risinghill Street, Angel",weekend
+"River Street , Clerkenwell",weekday
+"Riverlight North, Nine Elms",weekday
+"Riverlight South, Nine Elms",weekend
+"Rochester Row, Westminster",weekday
+"Rodney Road , Walworth",weekday
+"Roscoe Street, St. Luke's",weekday
+"Rotherhithe Roundabout, Rotherhithe",weekend
+"Royal Avenue 1, Chelsea",weekend
+"Royal Avenue 2, Chelsea",weekend
+"Royal College Street, Camden Town",weekday
+"Royal London Hospital, Whitechapel",weekday
+"Russell Gardens, Olympia",weekday
+"Russell Square Station, Bloomsbury",weekday
+"Sackville Street, Mayfair",weekday
+"Sadlers Sports Centre, Finsbury",weekday
+"Sail Street, Vauxhall",weekday
+"Salmon Lane, Limehouse",weekend
+"Saltoun Road, Brixton",weekend
+"Sancroft Street, Vauxhall",weekend
+"Sandilands Road, Walham Green",weekday
+"Santos Road, Wandsworth",weekend
+"Sardinia Street, Holborn",weekday
+"Saunders Ness Road, Cubitt Town",weekend
+"Scala Street, Fitzrovia",weekday
+"Sea Containers, South Bank",weekday
+"Sedding Street, Sloane Square",weekday
+"Selby Street, Whitechapel",weekday
+"Serpentine Car Park, Hyde Park",weekend
+"Seville Street, Knightsbridge",weekend
+"Seymour Place, Marylebone",weekday
+"Shadwell Station, Shadwell",weekend
+"Sheepcote Lane, Battersea",weekday
+"Shepherd's Bush Road North, Shepherd's Bush",weekday
+"Shoreditch Court, Haggerston",weekday
+"Shoreditch High Street, Shoreditch",weekday
+"Shoreditch Park, Hoxton",weekday
+"Shouldham Street, Marylebone",weekday
+"Sidney Road, Stockwell",weekday
+"Silverthorne Road, Battersea",weekday
+"Simpson Street, Clapham Junction",weekday
+"Sirdar Road, Avondale",weekend
+"Sloane Avenue, Knightsbridge",weekday
+"Smith Square, Westminster",weekday
+"Smugglers Way, Wandsworth",weekend
+"Snow Hill, Farringdon",weekday
+"Snowsfields, London Bridge",weekday
+"Soho Square , Soho",weekday
+"Somerset House, Strand",weekend
+"Sopwith Way, Battersea Park",weekend
+"South Audley Street, Mayfair",weekday
+"South Bermondsey Station, Bermondsey",weekend
+"South Kensington Station, South Kensington",weekday
+"South Lambeth Road, Vauxhall",weekday
+"South Parade, Chelsea",weekday
+"South Park, Sands End",weekday
+"South Quay East, Canary Wharf",weekend
+"South Wharf Road, Paddington",weekday
+"Southampton Place, Holborn",weekday
+"Southampton Street, Strand",weekday
+"Southern Grove, Bow",weekend
+"Southerton Road, Hammersmith",weekday
+"Southwark Station 1, Southwark",weekend
+"Southwark Station 2, Southwark",weekday
+"Southwark Street, Bankside",weekday
+"Southwick Street, Paddington",weekday
+"Spanish Road, Clapham Junction",weekday
+"Spencer Park, Wandsworth Common",weekend
+"Spindrift Avenue, Millwall",weekend
+"St John's Crescent, Brixton",weekend
+"St Martins Close, Camden Town",weekday
+"St Mary's Hospital, Paddington",weekday
+"St. Bride Street, Holborn",weekday
+"St. Chad's Street, King's Cross",weekday
+"St. George Street, Mayfair",weekday
+"St. George's Square, Pimlico",weekday
+"St. James's Square, St. James's",weekday
+"St. John Street, Finsbury",weekday
+"St. John's Park, Cubitt Town",weekend
+"St. John's Road, Clapham Junction",weekend
+"St. John's Wood Church, The Regent's Park",weekend
+"St. John's Wood Road, St. John's Wood",weekday
+"St. Katharine's Way, Tower",weekend
+"St. Luke's Church, Chelsea",weekday
+"St. Mark's Road, North Kensington",weekend
+"St. Martin's Street, West End",weekend
+"St. Mary & St. Michael Church, Stepney",weekend
+"St. Mary Axe, Aldgate",weekday
+"St. Peter's Terrace, Fulham",weekday
+"Stainsby Road , Poplar",weekend
+"Stamford Street, South Bank",weekday
+"Stanhope Gate, Mayfair",weekday
+"Stanley Grove, Battersea",weekend
+"Star Road, West Kensington",weekday
+"Stebondale Street, Cubitt Town",weekend
+"Stephendale Road, Sands End",weekday
+"Stepney Green Station, Stepney",weekday
+"Stewart's Road, Wandsworth Road",weekday
+"Store Street, Bloomsbury",weekday
+"Storey's Gate, Westminster",weekend
+"Strand, Strand",weekday
+"Strata, Elephant & Castle",weekday
+"Stratford Station, Stratford",weekend
+"Sugden Road, Clapham",weekday
+"Sumner Place, South Kensington",weekday
+"Sun Street, Liverpool Street",weekday
+"Surrey Lane, Battersea",weekday
+"Sutton Street, Shadwell",weekend
+"Swan Street, The Borough",weekday
+"Tachbrook Street, Victoria",weekday
+"Tallis Street, Temple",weekday
+"Tanner Street, Bermondsey",weekday
+"Tate Modern, Bankside",weekday
+"Tavistock Place, Bloomsbury",weekday
+"Tavistock Street, Covent Garden",weekday
+"Taviton Street, Bloomsbury",weekday
+"Temple Gardens, Temple",weekend
+"Teversham Lane, Stockwell",weekday
+"Teviot Street, Poplar",weekend
+"The Blue, Bermondsey",weekday
+"The Guildhall, Guildhall",weekday
+"The Metropolitan, Portobello",weekend
+"The Tennis Courts, The Regent's Park",weekend
+"The Vale, Chelsea",weekend
+"Theobald's Road , Holborn",weekday
+"Thorndike Close, West Chelsea",weekday
+"Thurtle Road, Haggerston",weekday
+"Timber Lodge, Queen Elizabeth Olympic Park",weekend
+"Tooley Street, Bermondsey",weekday
+"Torrens Street, Angel",weekend
+"Tower Gardens , Tower",weekend
+"Tower Wharf, Bermondsey",weekday
+"Trebovir Road, Earl's Court",weekend
+"Triangle Car Park, Hyde Park",weekend
+"Turquoise Island, Notting Hill",weekend
+"Twig Folly Bridge, Mile End",weekend
+"Tyers Gate, Bermondsey",weekend
+"Tysoe Street, Clerkenwell",weekday
+"Union Grove, Wandsworth Road",weekday
+"Union Street, The Borough",weekday
+"Upcerne Road, West Chelsea",weekday
+"Upper Bank Street, Canary Wharf",weekend
+"Upper Grosvenor Street, Mayfair",weekend
+"Upper Richmond Road, Putney",weekend
+"Usk Road, Clapham Junction",weekday
+"Vauxhall Bridge , Pimlico",weekday
+"Vauxhall Cross, Vauxhall",weekday
+"Vauxhall Street, Vauxhall",weekday
+"Vauxhall Walk, Vauxhall",weekday
+"Vereker Road, West Kensington",weekend
+"Vicarage Crescent, Battersea",weekday
+"Vicarage Gate, Kensington",weekend
+"Victoria & Albert Museum, South Kensington",weekday
+"Victoria Park Road, Hackney Central",weekend
+"Victoria Rise, Clapham Common",weekend
+"Victory Place, Walworth",weekend
+"Vincent Square, Westminster",weekday
+"Vincent Street, Pimlico",weekday
+"Walmer Road, Avondale",weekend
+"Walnut Tree Walk, Vauxhall",weekday
+"Walworth Square, Walworth",weekday
+"Wandsworth Rd, Isley Court, Wandsworth Road",weekday
+"Wandsworth Town Station, Wandsworth",weekend
+"Wapping High Street, Wapping",weekend
+"Wapping Lane, Wapping",weekday
+"Wardour Street, Soho",weekday
+"Warren Street Station, Euston",weekday
+"Warwick Avenue Station, Maida Vale",weekend
+"Warwick Road, Olympia",weekday
+"Warwick Row, Westminster",weekday
+"Warwick Square, Pimlico",weekday
+"Waterloo Bridge, South Bank",weekday
+"Waterloo Place, St. James's",weekend
+"Waterloo Road, South Bank",weekday
+"Waterloo Station 1, Waterloo",weekday
+"Waterloo Station 2, Waterloo",weekday
+"Waterloo Station 3, Waterloo",weekday
+"Watney Market, Stepney",weekend
+"Watney Street, Shadwell",weekday
+"Webber Street , Southwark",weekday
+"Wellington Arch, Hyde Park",weekend
+"Wellington Road, St. John's Wood",weekday
+"Wellington Row, Bethnal Green",weekend
+"Wellington Street , Strand",weekday
+"Wells Street, Fitzrovia",weekday
+"Wendon Street, Old Ford",weekend
+"Wenlock Road , Hoxton",weekday
+"West Cromwell Road, Earl's Court",weekend
+"West Kensington Station, West Kensington",weekday
+"West Smithfield Rotunda, Farringdon",weekday
+"Westbourne Green, Westbourne",weekend
+"Westbourne Grove, Bayswater",weekend
+"Westbourne Park Road, Portobello",weekend
+"Westbridge Road, Battersea",weekday
+"Westferry Circus, Canary Wharf",weekend
+"Westferry DLR, Limehouse",weekend
+"Westfield Ariel Way, White City",weekday
+"Westfield Library Corner, Shepherd's Bush",weekend
+"Westfield Southern Terrace ,Shepherd's Bush",weekend
+"Westminster Bridge Road, Elephant & Castle",weekend
+"Westminster Pier, Westminster",weekend
+"Westminster University, Marylebone",weekend
+"Whiston Road, Haggerston",weekday
+"Whitehall Place, Strand",weekend
+"William IV Street, Strand",weekday
+"William Morris Way, Sands End",weekend
+"Windsor Terrace, Hoxton",weekday
+"Wood Street, Guildhall",weekday
+"Woodstock Grove, Shepherd's Bush",weekday
+"Woodstock Street, Mayfair",weekday
+"World's End Place, West Chelsea",weekday
+"Wormwood Street, Liverpool Street",weekday
+"Worship Street, Shoreditch",weekday
+"Wren Street, Holborn",weekday
+"Wright's Lane, Kensington",weekday
+"Wynne Road, Stockwell",weekend
+"York Hall, Bethnal Green",weekend
+"York Way, Kings Cross",weekday

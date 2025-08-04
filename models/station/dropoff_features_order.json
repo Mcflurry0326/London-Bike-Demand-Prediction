@@ -1,0 +1,19 @@
+[
+  "temp",
+  "humidity",
+  "precip",
+  "windspeed",
+  "cloudcover",
+  "latitude",
+  "longitude",
+  "hour",
+  "dayofweek",
+  "month",
+  "is_weekend",
+  "is_peak_hour",
+  "cluster_hourly_avg_dropoff",
+  "dropoff_count_lag_1h",
+  "dropoff_count_rolling_3h_mean",
+  "dropoff_count_rolling_6h_std",
+  "dropoff_count_cumsum_day"
+]

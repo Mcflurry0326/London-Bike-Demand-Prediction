@@ -1,0 +1,138 @@
+{
+    "pickup": {
+        "0": {
+            "xgboost": {
+                "MAE": 0.5593,
+                "R2": 0.7707
+            },
+            "lightgbm": {
+                "MAE": 0.5652,
+                "R2": 0.7742
+            },
+            "best_model": "xgboost"
+        },
+        "1": {
+            "xgboost": {
+                "MAE": 0.6844,
+                "R2": 0.8041
+            },
+            "lightgbm": {
+                "MAE": 0.6991,
+                "R2": 0.8039
+            },
+            "best_model": "xgboost"
+        },
+        "2": {
+            "xgboost": {
+                "MAE": 0.5672,
+                "R2": 0.7693
+            },
+            "lightgbm": {
+                "MAE": 0.5786,
+                "R2": 0.7679
+            },
+            "best_model": "xgboost"
+        },
+        "3": {
+            "xgboost": {
+                "MAE": 0.6928,
+                "R2": 0.8875
+            },
+            "lightgbm": {
+                "MAE": 0.7163,
+                "R2": 0.8836
+            },
+            "best_model": "xgboost"
+        },
+        "4": {
+            "xgboost": {
+                "MAE": 0.6662,
+                "R2": 0.8608
+            },
+            "lightgbm": {
+                "MAE": 0.6915,
+                "R2": 0.8541
+            },
+            "best_model": "xgboost"
+        },
+        "5": {
+            "xgboost": {
+                "MAE": 0.7196,
+                "R2": 0.8531
+            },
+            "lightgbm": {
+                "MAE": 0.7401,
+                "R2": 0.8503
+            },
+            "best_model": "xgboost"
+        }
+    },
+    "dropoff": {
+        "0": {
+            "xgboost": {
+                "MAE": 0.5214,
+                "R2": 0.7572
+            },
+            "lightgbm": {
+                "MAE": 0.5223,
+                "R2": 0.7634
+            },
+            "best_model": "xgboost"
+        },
+        "1": {
+            "xgboost": {
+                "MAE": 0.6666,
+                "R2": 0.8156
+            },
+            "lightgbm": {
+                "MAE": 0.6799,
+                "R2": 0.8125
+            },
+            "best_model": "xgboost"
+        },
+        "2": {
+            "xgboost": {
+                "MAE": 0.5221,
+                "R2": 0.7803
+            },
+            "lightgbm": {
+                "MAE": 0.5321,
+                "R2": 0.7814
+            },
+            "best_model": "xgboost"
+        },
+        "3": {
+            "xgboost": {
+                "MAE": 0.672,
+                "R2": 0.9042
+            },
+            "lightgbm": {
+                "MAE": 0.7024,
+                "R2": 0.8984
+            },
+            "best_model": "xgboost"
+        },
+        "4": {
+            "xgboost": {
+                "MAE": 0.6624,
+                "R2": 0.8842
+            },
+            "lightgbm": {
+                "MAE": 0.6882,
+                "R2": 0.8785
+            },
+            "best_model": "xgboost"
+        },
+        "5": {
+            "xgboost": {
+                "MAE": 0.6885,
+                "R2": 0.8415
+            },
+            "lightgbm": {
+                "MAE": 0.7063,
+                "R2": 0.8399
+            },
+            "best_model": "xgboost"
+        }
+    }
+}
