@@ -9,7 +9,7 @@ from io import BytesIO
 from PIL import Image
 import matplotlib.pyplot as plt
 from predict_bike_usage import predict_bike_usage
-MAPBOX_KEY = "pk.eyJ1IjoibWNmbHVycnkwMzI2IiwiYSI6ImNtZHdyZmY0NjE3Njkya3F5OXNqNXVsbnIifQ.GFjI4Rw8ahLpVVdpZkAWBQ"
+
 
 
 
@@ -150,8 +150,7 @@ def run_prediction_module():
             map_style='mapbox://styles/mapbox/streets-v11',
             initial_view_state=pdk.ViewState(latitude=lat, longitude=lon, zoom=13, pitch=0),
             layers=[icon_layer, text_layer],
-            tooltip={"text": "{Station}\n{Prediction}"},
-            mapbox_key=MAPBOX_KEY
+            tooltip={"text": "{Station}\n{Prediction}"}
         ))
 
 
