@@ -5,3 +5,4 @@ joblib
 xgboost
 lightgbm
 catboost
+matplotlib
