@@ -103,4 +103,5 @@ Live application: https://london-bike-demand-prediction.streamlit.app/
 If the application is asleep due to inactivity, click Activate and wait briefly before re-entering.
 Due to Streamlit deployment limitations, the online map may sometimes be blank. For full functionality, run the app locally.
 
+Made by Xiang Wang.
 
